@@ -1,0 +1,49 @@
+<!doctype html><html lang="zh-Hant-TW"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>民眾準備清單（離線版）｜WorldWar 戰況情報站</title><meta name="description" content="家中儲備、緊急避難包、空襲警報應變與附近防空避難處所查詢；加到手機主畫面後斷網也能看。">
+<link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#060d18"><link rel="apple-touch-icon" href="icon-192.png">
+<link rel="stylesheet" href="style.css"></head><body>
+<header class="top"><div class="brand"><h1>民眾準備清單</h1><p>離線版｜內容更新於 2026-10-11 07:29（台北）</p></div><nav><a href="index.html">← 回首頁</a></nav></header>
+<main class="narrow">
+<p class="notice small" id="offline-tip">📴 <b>斷網也能看：</b>手機用瀏覽器開啟本頁後，iPhone 按「分享 → 加入主畫面」，Android 按選單「安裝應用程式／加到主畫面」。開過一次後，這頁和你查過的避難處所會存在手機裡。<span id="sw-state"></span></p>
+
+<section id="shelter"><h2>📍 附近防空避難處所</h2>
+<p class="muted small">資料：內政部警政署防空疏散避難設施（adr.npa.gov.tw），經 kiang/npa.gov.tw 整理，共 79,495 處，2026-10-09 更新。多數位於大樓地下室，平時屬私人產權，請在警報發布時使用；實際位置以現場「防空避難」標示為準。</p>
+<div class="sh-controls"><button type="button" id="sh-geo">📍 用我的位置找最近的 10 處</button>
+<select id="sh-county" aria-label="縣市"><option value="">或選縣市</option><option>宜蘭縣</option><option>花蓮縣</option><option>金門縣</option><option>南投縣</option><option>屏東縣</option><option>苗栗縣</option><option>桃園市</option><option>高雄市</option><option>基隆市</option><option>連江縣</option><option>雲林縣</option><option>新北市</option><option>新竹市</option><option>新竹縣</option><option>嘉義市</option><option>嘉義縣</option><option>彰化縣</option><option>臺中市</option><option>臺北市</option><option>臺東縣</option><option>臺南市</option><option>澎湖縣</option></select>
+<select id="sh-district" aria-label="鄉鎮市區" disabled><option value="">鄉鎮市區</option></select></div>
+<p id="sh-status" class="muted" role="status"></p><ol id="sh-list" class="sh-list"></ol>
+<p class="muted small">也可以用官方查詢：<a href="https://adr.npa.gov.tw/" target="_blank" rel="noopener">內政部警政署防空疏散避難專區</a>，或手機「警政服務」App 的防空避難專區。</p>
+</section>
+<section id="prepare"><h2>🧺 家中儲備與避難包</h2><ul><li>每人每天至少 3 公升飲用水，家中至少儲備 7 天。</li><li>循環儲備：平時就買、照常吃用、用掉再補；每半年檢查一次，換掉快過期的。</li><li>防災物資與日常物資分開放，分散風險。</li><li>避難包以背得動為原則（建議男性約 15 公斤、女性約 10 公斤內），準備 1～3 天份，放玄關等好拿的位置。</li></ul>
+    <div class="cols"><div><h4>家中儲備（每人）</h4><ul><li>📘 瓶裝飲用水：每天約 3 公升</li><li>📐 生活用水（沖馬桶、清潔）：浴缸或水桶儲水</li><li>📐 免煮或少煮的主食（泡麵、即食飯、罐頭、麥片、餅乾）：每天約 3 份</li><li>📘 高熱量零食（巧克力、堅果、能量棒）：每天約 1 份</li><li>📐 卡式爐＋瓦斯罐（停電時煮水、加熱）</li><li>📘 慢性病藥物、常用藥（退燒、止痛、腸胃、過敏）</li><li>📘 急救包（紗布、繃帶、優碘、OK 繃、口罩）</li><li>📘 手電筒或頭燈＋備用電池</li><li>📘 行動電源（平時充飽）</li><li>📘 收音機（手搖／電池式，網路中斷時聽廣播）</li><li>📘 手搖發電機或太陽能充電板</li><li>📘 衛生紙、濕紙巾、垃圾袋</li><li>📘 女性生理用品、嬰兒用品、寵物食物（依家中需要）</li><li>📐 簡易馬桶凝固劑（停水時用）：每天約 5 次</li><li>📘 小額現金（停電時刷卡、行動支付可能不能用）</li><li>📘 證件影本（身分證、健保卡）與重要資料備份</li></ul></div>
+    <div><h4>緊急避難包</h4><ul><li>📘 飲用水 600ml×2</li><li>📘 高熱量餅乾或即食餐</li><li>📘 急救包、個人藥品、口罩、濕紙巾</li><li>📘 薄外套、輕便雨衣、保暖毯、手套、暖暖包</li><li>📘 證件影本、小額現金、備用鑰匙</li><li>📘 哨子、手電筒、電池、行動電源、多功能刀具</li><li>📘 收音機</li><li>📘 好走的鞋</li></ul>
+    <h4>聽到空襲警報</h4><ul><li>空襲警報：先進地下室或防空疏散避難設施，或聽從警察引導。</li><li>避難四原則：地下優於地上、室內優於室外、遠離外牆門窗、避開危險物品。</li><li>在戶外來不及躲：趴下、嘴巴微張、護住頭部、背對爆炸方向。</li><li>網路斷了就聽廣播；廣播也沒有，到派出所或村里辦公室問。</li><li>臺灣若遭軍事侵略，任何「國家戰敗」「政府投降」的訊息都是假訊息。</li></ul><p>☎️ 報案 110｜緊急救援 112｜消防 119｜海巡 118｜地方政府 1999｜心理諮詢 1925</p></div></div>
+    <p class="muted">📘 官方指引明列；📐 依官方原則換算的估算。來源：<a href="https://prepare.mnd.gov.tw/" target="_blank" rel="noopener">臺灣全民安全指引（國防部全民防衛動員署）</a>、<a href="https://prepare.mnd.gov.tw/assets/pdf/manual.pdf" target="_blank" rel="noopener">臺灣全民安全指引 手冊 PDF</a>、<a href="https://prepare.mnd.gov.tw/assets/pdf/emergency-supplies.zh-Hant.pdf" target="_blank" rel="noopener">日常居家儲備清單 PDF</a>、<a href="https://www.cna.com.tw/news/aipl/202306130149.aspx" target="_blank" rel="noopener">中央社：全民國防應變手冊緊急避難包清單</a>、<a href="https://www.disasterlearning.gov.taipei/tw/Knowledge/ugC_Knowledge_Detail.aspx?ID=97&amp;TID=4&amp;CID=14" target="_blank" rel="noopener">臺北市防災學習：日常儲備及緊急避難包</a></p></section>
+</main>
+<script>
+(function(){
+  var st=document.getElementById('sw-state');
+  if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').then(function(){st.textContent='（離線功能已啟用）'}).catch(function(){st.textContent=''})}
+  if(!document.getElementById('sh-geo'))return;
+  var idx=null,tiles={},$=function(i){return document.getElementById(i)},status=$('sh-status'),list=$('sh-list');
+  function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+  function loadIndex(){return idx?Promise.resolve(idx):fetch('shelters/index.json').then(function(r){return r.json()}).then(function(j){idx=j;return j})}
+  function tile(k){if(tiles[k])return Promise.resolve(tiles[k]);if(idx.tiles.indexOf(k)<0)return Promise.resolve([]);return fetch('shelters/t_'+k+'.json').then(function(r){return r.json()}).then(function(j){tiles[k]=j;return j}).catch(function(){return[]})}
+  function dist(a,b,c,d){var R=6371,x=(c-a)*Math.PI/180,y=(d-b)*Math.PI/180,h=Math.sin(x/2)*Math.sin(x/2)+Math.cos(a*Math.PI/180)*Math.cos(c*Math.PI/180)*Math.sin(y/2)*Math.sin(y/2);return 2*R*Math.asin(Math.sqrt(h))}
+  function near(lat,lon,label){
+    status.textContent='搜尋中…';list.innerHTML='';
+    loadIndex().then(function(){var bl=Math.floor(lat*10),bo=Math.floor(lon*10),ks=[];for(var i=-1;i<=1;i++)for(var j=-1;j<=1;j++)ks.push((bl+i)+'_'+(bo+j));return Promise.all(ks.map(tile))})
+    .then(function(groups){var all=[].concat.apply([],groups).map(function(r){return{r:r,d:dist(lat,lon,r[0],r[1])}}).sort(function(a,b){return a.d-b.d}).slice(0,10);
+      if(!all.length){status.textContent='附近 10 公里內沒有找到資料，請改用官方查詢。';return}
+      status.textContent=label+'：最近的 '+all.length+' 處（直線距離，非步行路線）';
+      list.innerHTML=all.map(function(x){var r=x.r,m=x.d<1?Math.round(x.d*1000)+' 公尺':x.d.toFixed(1)+' 公里';
+        return '<li><b>'+m+'</b>｜'+esc(r[2])+(r[3]?'（'+esc(r[3])+'）':'')+'<br><span class="muted small">可容納約 '+(r[4]||'?')+' 人'+(r[5]?'｜'+esc(r[5]):'')+'｜<a target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query='+r[0]+','+r[1]+'">地圖</a></span></li>'}).join('')})
+    .catch(function(){status.textContent='讀取失敗：第一次使用需要網路，查過的區域之後離線也能看。'})}
+  $('sh-geo').onclick=function(){if(!navigator.geolocation){status.textContent='這個瀏覽器不支援定位，請改選縣市。';return}
+    status.textContent='取得位置中（位置只在你的手機上計算，不會上傳）…';
+    navigator.geolocation.getCurrentPosition(function(p){near(p.coords.latitude,p.coords.longitude,'你的位置附近')},function(){status.textContent='無法取得位置，請允許定位或改選縣市。'},{enableHighAccuracy:true,timeout:15000})};
+  $('sh-county').onchange=function(){var c=this.value,ds=$('sh-district');loadIndex().then(function(){var names=Object.keys(idx.districts).filter(function(d){return d.indexOf(c)===0&&d!==c});
+    ds.innerHTML='<option value="">鄉鎮市區</option>'+names.map(function(d){return '<option value="'+esc(d)+'">'+esc(d.slice(3))+'（'+idx.districts[d][2]+' 處）</option>'}).join('');ds.disabled=!c})};
+  $('sh-district').onchange=function(){var d=this.value;if(!d)return;var v=idx.districts[d];near(v[0],v[1],d+'中心附近')};
+})();
+</script></body></html>

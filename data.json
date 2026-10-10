@@ -1,0 +1,270 @@
+{
+ "generatedAt": "2026-10-10T23:29:49.058Z",
+ "ruleVersion": "iw-v2-trial",
+ "theaters": [
+  {
+   "id": "taiwan_strait",
+   "name": "台海",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、2 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "聯合戰備警巡（國防部原文或 2 家以上媒體）",
+     "summary": "10/09 3 家媒體報導共軍「聯合戰備警巡」，共機 19 架次（Yahoo新聞、UDN、LINE TODAY）。",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lNG9MRFNPVHhsQ2lQUjZ5TlpQN0J2RFk3STNjakVRb3BwcHVud0JnTkZ2M3lDcXdma0p5aGxnb240SjRfVFdpYURsd2VRbGs2WmMtWEptTE5UT1BwdGZaTm9zUGE?oc=5",
+       "publisher": "LINE TODAY"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOMy1BUnJDR1EwTGg0NUM5dWxITzVlODR4bG5TVDhEZFdTZk13Z3l5d194aTVqR3JZcHhBcnAyR2NzMGNwRG1WVTh0T3Y3eHZlaHo0NnQwWHA1M0ZncmRadmlDOW5kOV9DVGtjdVAybHgyc3RvZTNWMUpKeFp6VF91OEFXY0laSll5ZjhYWHZXN1ZnN2I2b3l1dVYzN0NjbG1UUm40VWpSTUxTcHN3T3JuTjlFTmxCVUlGNmNHQ3VCSTBaYTJ2cmxjM0RtS09WNXJQY1BSQmkzMVFIUXB0LU52czhqc3dEZlphSVVYYkRIanp2Unh3LXBFeDhQanR1eHkxYmdTQ0tXVXhobUFQelZFQ0JTekE0bnVac2ZBeE9qYTRLU3ByeUwteU9ETHZZSGlDSnRQa19JTHFaemFzV1c0NVVZM0NYcWFvZno1N0hYQ0RwTXdUZ3E5T1JKcFN2Vk93UkF2M0t5bFc4aDVaMmlWRmU5bWcySmt6RlFuMQ?oc=5",
+       "publisher": "Yahoo新聞"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51akR5WTRkT19DOGNKTGpjVVVFRFd0WHhsdnBmUi1LdXJuTEtxZnpuVG5felBhRlBOS2VxQnNNRmU2VEtNV0R3dm9jdjgteXNyMlE?oc=5",
+       "publisher": "UDN"
+      }
+     ]
+    },
+    {
+     "name": "中國海警進入金門、馬祖限制水域或登檢台灣船隻（2 家以上媒體）",
+     "summary": "10/10 3 家媒體報導中國海警進入金門、馬祖限制水域或登檢台灣船隻：-中國海警船再闖金門限制水域 海巡艇併航監控至全數退出",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2SmdPTDkydFhLb3V5TDNXQ1hfbkZPOFgyWnhIQ0lURWo0MzBDZWwwQmhOWVJmYzFLcW5SWVhQR0JsRXZBXzd3MWZOUkx0SVZwVUx1aHZqc3cxdw?oc=5",
+       "publisher": "金門日報"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zSHdnc093bDFUQlA4dU1TRDhFVW9kYlZWaHJ1Y3A3TzJMWElGam9LWTdxc1ZJT3QyUXFlZTFOWlJaYjBfMXVYVnl1T3gzTWQ1Z2lOWG1YRnlBb2wzUmQ3NlJvV0hPd9IBZkFVX3lxTE0zSHdnc093bDFUQlA4dU1TRDhFVW9kYlZWaHJ1Y3A3TzJMWElGam9LWTdxc1ZJT3QyUXFlZTFOWlJaYjBfMXVYVnl1T3gzTWQ1Z2lOWG1YRnlBb2wzUmQ3NlJvV0hPdw?oc=5",
+       "publisher": "新唐人電視台"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54TzNObU44Ny16RVZkUGZIa1RFTHJhWlQ5TzZHb1RLYXh3SjRBMjFjYXpQVVlZTnNJRDhMa1owUW5mZTgzSnFERVU3S2l3QnFLVHFrOEl6S1FDZ2VwRHg4RHcxalY?oc=5",
+       "publisher": "LINE TODAY"
+      }
+     ]
+    },
+    {
+     "name": "政治時間點後 14 天內（就職、過境、軍售、國慶演說）",
+     "summary": "中華民國國慶日與總統演說（10/10）後 14 天觀察期。前例：2024 年國慶演說後 4 天（10/14），東部戰區發動「聯合利劍-2024B」圍台演習。",
+     "sources": [
+      {
+       "url": "https://www.cna.com.tw/news/acn/202410140010.aspx",
+       "publisher": "中央社"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iran_gulf",
+   "name": "美伊戰爭與荷莫茲海峽",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "48 小時內曾達較高等級，暫不降級",
+   "triggered": []
+  },
+  {
+   "id": "europe_security",
+   "name": "歐洲與北約東翼",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、1 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "戰機緊急升空、機場關閉或交戰規則變更",
+     "summary": "10/10 4 家媒體報導戰機升空或機場關閉：In Poland, an alert was announced and aircraft were scrambled over Russia's attack on Ukra",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTEdxczlrbnYwTFU5STBSRmotcG5BWi13dlV0T2V1Y3BYelppSWZDbld3bEI2Q0xEVHR1SGdCQUNZQ2RMdUo1Ykpzdks1bGpWVXkxRldpN2IyNjA1S3B1cWNIbnpRc0xYZjAwM0RxQ1F1cFI5M2plVW1mRWxLT3hVdk1iai16blMzT1h3VUZEQkVib1RmbUNiamtGMzVacEszMUkyN2RfR3lZTzRwdzBvUHFDaVZ5TU3SAbYBQVVfeXFMTVVGdzY5SUZZTUw4WEMwOGVqQUJ4NU1OazJQSEFpdU9tMWxybnA2ZEgyY1lfdU1yRnYwYy1ZSTZzVFUwWXZTaGtOcWVvaldSZjZ4MWZzM1B0ZFh1STRRcE45TjJidHZLX2xya0pZc3JTeE9EWTZhNjFXa0ZYV0VfQ3o1WmZFX3pmMDFQZUdwRW5qLVRka0k0S1R2MjBOdHlTX3pWdnVfN21rR0NkNHFmbW5tSEUwTmc?oc=5",
+       "publisher": "Українські Національні Новини (УНН)"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNHFsU2pVdDN3UFV4WDRDSEVtRUxPdFlldk5nZ1lJUGNrbHRMWkljZjM1emY2ckFwLU90VjV4QVhremRBNGVhcGFWRG5kMXRteEFWLUVzQ0Nuem5LWjV5WTVHeTRoaDZWU0xMSjVCdFVBakpaNVQ1VUdYc0ZNLXdrV3JYRXJyYlZPLV9BdEUyRVFRWUNjUnp2eWNpMll0U0w0RkdBVHh1LW45enpqZmVtal9nX29INjZDUWM2WDFNa1hxaG5YY0J2cdIBzgFBVV95cUxNbXp1ZWxzLWh5d3NFUXVCcEl2a2dDWFNaRDFhVmJBcEwxZ0hMbU1zMHYxd0g1d3hBM3JUZ09IRG9neExmRU1DaF90NDhzUFZmeXNJeFBvNUFCTVpsR0NfaGVZNEZaYVRwTC1FbXpoOEM4enloaTFpZGl4X2pvN0Z6Tnc1Q1d0QTNiaG9mY3VrYmhORjNGbVFPSUYycVdpbjhTQ0ZSdVJkZnlsMnFLM29SeDZWQjRXQ0tVSVl3Y183MGVLZlNwUmp4QUU4N2YzZw?oc=5",
+       "publisher": "Ukrinform"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQXpyVzY3ZFFPY1VTYzRKbDNUdzlIUnVkTVo2V1U5SndjUGt3SjNrS3Rsb0VUX2hFWm5BV2cxeUtMVzVScVJNUVZUdldsTl9mOXRHRXlXYU14QkdCeHVVeGxRUzl0MEc1MUFoNnpJaTk4OFZTNUZUb0NmbE5uWjRuaFo0alJtUFVLd3lPaWhOdWl4U0U?oc=5",
+       "publisher": "RBC-Ukraine"
+      }
+     ]
+    },
+    {
+     "name": "東翼增派兵力或擴大空防任務",
+     "summary": "波蘭副總理兼國防部長卡米什經波蘭廣播電台宣布，將首度在盧布林省（盧布林機場附近）部署愛國者飛彈連，保護當地居民與常因空襲警報中斷的航班；另在比烏戈拉伊、武庫夫、波尼亞托瓦成立含無人機部隊的新單位。部署時程未公布。事件僅知日期，00:00 為日期容器。",
+     "sources": [
+      {
+       "url": "https://www.ukrinform.net/rubric-defense/4171627-defense-minister-poland-to-deploy-patriot-systems-near-ukrainian-border.html",
+       "publisher": "Ukrinform（引述波蘭廣播電台）"
+      },
+      {
+       "url": "https://kyivindependent.com/poland-to-deploy-patriots-near-ukrainian-border-announces-26-billion-civil-defense-plan/",
+       "publisher": "Kyiv Independent"
+      },
+      {
+       "url": "https://www.kyivpost.com/post/86222",
+       "publisher": "Kyiv Post"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ukraine_front",
+   "name": "烏俄戰爭",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "0 項主要、2 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "外交關係變化或安理會緊急會議",
+     "summary": "10/09 4 家媒體報導外交關係變化：Ukraine demands an emergency meeting of the UN Security Council over Russia’s massive stri",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd3JMcHRhMHZGWTBQV1pINTdobFFWbUhnNHhJcExBaE84RzZBOVFUaHZhcnRESUJSbE1aV3N3c3J4SWFjTlF3akFEYklqdm9uVXZTWkdIV0lJMFVtTzZGNWJBZUl2d21XTzRaenJFckNVajJzVkVpb2hXS3pXYXpZYjRIVG5vYXJQMVdiYmJJSE5PMFRkcDBXMDd4Z2E2WDdmM3ByX29mRnRLd1I2YUE4VXRJUjlOSDNGak8zOWc4Y3BzQVNJd0J6QTVBMjJqVGNrdHN2d296c9IB1gFBVV95cUxOZHp5VDhNVjhKdngycXhuQThMdXROX0M0ZFN2LUNaQzMwcjZIdHoxdi1ROWVyM2VaejZfZS1QSG5OSmlyWGpMd1dCMjlKRS1wMjY0RjNBOHB5M3FxNHJJTEpmajRlLWFYeUpKX1RROVh6aVp0NTV0QTBWNXZlNFdPTE9pT1E4cmwzUERvckZBN0pVOXhpWS01M2ZrQ1Njd0thMUR6Q080dTZ6bk0xV0QtcUFiXzRPM2VyaU55SVRzVmtXR0dfdHZiejdKSHBEY3ZfNDRJS2NR?oc=5",
+       "publisher": "Українські Національні Новини (УНН)"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWmM5bVUwRTlYNmRwbGxyanpmQW9wczk1ZkF4eUF6MXRZQXowUmVxNXBuZHQ4ZUMwQzdhRTE2cGIwS1pZUnktbmwydTBnTXYwUVo4TnBLanM3RlhTTlZMUUpNOTJDaVFiOGpaWmFhRkdyVUVRZDh1dTdIWnJsNENpczcxU1VqLU5HeEtuU29QUkVQbER0NmFaQ05TRVpYSXR6R1Rvc2VUMjdESks4RmpBRTg2ZlZiMEdlbFh3MnVObUcwbF9HUEo0?oc=5",
+       "publisher": "ІА Король Данило"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNERWaVJ6S0RnTkR2RWJEdHV0ejJhTTd0ZnIyT1hRdEtHUlpBVFl5dUJmLXMxZ0FUV0FVZGZuVV80Z1lxR2FYdTlLWUZaNWNEbnB4X3ZKUXJLZlFNQ0N3RjNCZTFDZF9EVzR5ZEcyVWVmNWhhUVdMXzJkcDBGeW0xaFhybFVvejJPOUw4T2p4M0ZheEx0SGZsQkRMdTA0NVFBOHA5alRwMmo?oc=5",
+       "publisher": "UA.NEWS"
+      }
+     ]
+    },
+    {
+     "name": "安理會、北約峰會等國際組織行動（2 家以上媒體）",
+     "summary": "10/10 3 家媒體報導聯合國、IAEA 或北約等國際組織行動：Athens Backs UN Security Council Meeting on Russian Attacks in Ukraine",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaDV3NUtucFFySXZHbTdTTGJSZGRIWlVZQ0FZczlxMXc4OTg0OTRZb1pzek83dzNXdElpTFV5V0VtN3VTVkp3c1BlRGpidTRhM3UtWV9JSm54bW5GSXB2dm9oVklXZHdUR3lrWE9QVFFuaTJkOFo0NUp2ODV3NXBwOUh3aWdBYlRrWUVTUDNkdS1tTUQyR3JEelQ4azItaHFUVVhBdERYWVBHNTBvcWlxU3gwT0FQSk1lMnpZYmlMamFjeG5I?oc=5",
+       "publisher": "Pagenews.gr"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVktHLUdqdG1EcDRlbXhrdVZ6YzlpOFBwRlpfWXc5MExRYlYzZ0NObXJ3OEk3ZUFNakZVYkJIX3hUMkg4SEpmclAxeDBFc21SbGszUGgxU2p1YkIwd1FvakJvbXhjdUxOOUxVVmRjOG1RSXY3SGhWT2prcnVONGlWSkdpcw?oc=5",
+       "publisher": "Mirage News"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EMk8teEptb1RDbDZsMm43YTdmNlhpcDk1V05YVlRhVWR6cVRYNWt3WXBkOWNSZGtiZnlLRTZQSlFpM0dtZ09NT2YwZw?oc=5",
+       "publisher": "Kyiv Post"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "korea_peninsula",
+   "name": "朝鮮半島",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、1 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "北韓彈道飛彈發射（2 家以上媒體）",
+     "summary": "10/09 7 家媒體報導北韓飛彈發射：討論牆 | 北韓宣稱試射中程戰略飛彈 首度宣稱導入AI技術",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pZ25MbGxjTTlKRlRJZHcwZEdQVFF3V080UHZLR1M5TWtraDVMb1lsLXBpQU5fcUdEZnJJVWNMUGVvUmZEMzAzSnJxcmVkWGRjWFB3am1FUkt3SjJ2d1ZTOHlzLVE?oc=5",
+       "publisher": "LINE TODAY"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRFBmQ3ZtVDF5OWtISjMzdXhxQnlGbHVDbVVzZUhoMXYtQldZbDFOSmNxV2pVUGc0ZmkyMVJNd3dUbVZ5WlRqSHl4N1pVWEhwRlFSd2x4QnNtaUNtRTlPX1dTMVl2azBlWWxkR2hlRThJeGNNX0ZOaWVlZV9sZXl5WHJYUkY1QUU?oc=5",
+       "publisher": "澳門廣播電視股份有限公司"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdWxKY1F5V2drQm1pRkxwWDFOYjNQclJGTUN3RGVaUEEwSG9JMGRpOXZ0U1p4WW5uZ2k5WmpnREZleWdyS2Raci1MWlNJZkxkMXNVSzRtcFdQQVNEajNpUktET0kwSXNoV0FDSVBSTkF6UkZjN1l5QUt2TUJyVThTLVU2RmtqZkU4eUh0b0xTQXU5a0s4ZlRQR0tLOEZlTER2eEZzQ3p5bHJiUFVZMHVlbkIwWkowOGhXcldrMzhkZ04zbWJhZTF6dHlBY0Nady1ybWhmLWRUYXRtdkFDQzZoRXk4anZpVjB2ZkRj?oc=5",
+       "publisher": "NT News"
+      }
+     ]
+    },
+    {
+     "name": "外交關係變化或官方言論升級",
+     "summary": "10/09 3 家媒體報導外交關係變化：South Korea recalls ambassador from Ukraine amid N. Korea prisoners wrangle",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmFGbldzWU9fRXI4R3VYVXVVVTl5a29jU3NSUEhLa0o1QzdMWW12VHdpeGRpUURacnNrTGtJNi1iWUFfYU81ajFDeW8tRV9uZlQ1T2FWQVZleTlrRzVBS0hrWHNPTEQ3OXpVNE1qcEdFWnpJVjNjNzlRSlJiYlJ4QXdxamt0U2Izd1VPYm5uQ3RNUi1hYzNzN08zdHdlUzNPbGJybU5YSjRQNjJqalZYSjVBdi1UeGZyb3c?oc=5",
+       "publisher": "The Straits Times"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnVsb1Bjdk81VTgxX3BEdkV2REdaOHRKcExJdGNVSHNWRzk4RGtPYWhNdUFMRFVlRjZJNUVZbUw1cVpOSmFZVlM4TllvRGVyX0g0emRRR09SZ0lBYldXOWR0YnV0ekp5Wk9iaTJhZnk1MDBoNVVzQnl1cjRjTGNwdzhkMmRWWW0wN2dFc2o3ckJGTGpjOVdULVNHV01CWlFvRjYtWS01a1NtRWc?oc=5",
+       "publisher": "Cambodianess"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOWlvQ2FsTnYzeTVCS0NqU2RZSVd2S3hIUVRESVVqMkdaeld6MVVjcU0tTEloNTVjUVZWTmw1QlJNNkI0eTZ5Qk9aZTVTa0FCTDRZdDFwbGZ1MUNDdDhiZ0tRMFpjdTdYaWtSRmZLVTVKZUdWT21xbFNZb3Nja2ZWaWVsU3hYdWQtVmRFSjNMNnRiZWxwOS1sSlhiSkFycm1WanotcUxvb3JzV0pMemE5cmE5QQ?oc=5",
+       "publisher": "Ratopati"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "south_china_sea",
+   "name": "南海",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、0 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "中菲海上衝突（水砲、衝撞、雷射，2 家以上媒體）",
+     "summary": "10/10 2 家媒體報導中菲海上衝突（水砲、衝撞、雷射）：菲南海醫療行動 控中國水砲阻撓",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TN3plQi1JUFNydnVnR2RqZlFvcTVXTGttczdlMkViZG1XRFFDbGhmNGdqTWRwMlEybzBXNF9qTURKQWd0OEdLUDlWNXlPM1p1VmJrakRMWGxoU2Y10gFiQVVfeXFMUEptMDFkVXJfVkdMTDNTY1VGcDRvQzVUdy11NGdrQ1Q5di1zcWZOaXpYNVNBX3JnRm9xaWRhaEpMT3dvQlAzRzZKY1pUcHJUMk1SRWZwRnFpUkd6dzJaYm5fUXc?oc=5",
+       "publisher": "自由時報"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGTEk3R0t0X1Nra0RDQWRkaTRiRzBwekJPdi16Z2NTREZPR2Z1clFmZXJuM3NQaXhwSWl0Z3lCczNZWXFEc18xb3lWcUsweEVheUU0STZyck1QSkJQN3BGN3hyNUh4SWvSAWdBVV95cUxQRkxJN0dLdF9Ta2tEQ0FkZGk0YkcwcHpCT3YtemdjU0RGT0dmdXJRZmVybjNzUGl4cElpdGd5QnMzWVlxRHNfMW95VnFLMHhFYXlFNEk2cnJNUEpCUDdwRjd4cjVIeElr?oc=5",
+       "publisher": "世界新聞網"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "middle_east",
+   "name": "以巴、黎巴嫩與紅海",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、0 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "胡塞攻擊紅海／亞丁灣船隻（2 家以上媒體）",
+     "summary": "10/09 2 家媒體報導胡塞攻擊紅海／亞丁灣船隻：Yemen’s Houthis Say They Targeted Two Saudi Tankers; Source Says Encelia Hit by Missile",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTlRZMXV3RGdJVFJUbGlGR0Z6TDRVdDFXQXk3VzFJdlZPUHpVYzZKVFR2Rkh6aElDMnlBY2xna29mbFQzb2RXVDlBYzVUMW0zejFqMHpKR0hoUldHU1pJUVJZU1Z1Q0twQ0gwME9UU1ZfZjRMd0d3YnJkcUpvaHNpSklnam1GUDBrZlpybXZQZHlTcEtBNVNObUU4SVVQeDBwLXlkREZITHB4RUdzdUs1SXdzaktrZw?oc=5",
+       "publisher": "EnergyNow"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY0QyZ3Yxdmo4YWNjWWl3U00wdTBlQWRkU3dKQ2ZEcFZ5LTIzX3NFN1BsVGlTZnY1SU1iRnI5TjBWR21faUdTeGdkZU5EdmJQUXpMNmhVTXBsN0RVTmMzY3NEUnB0ejFCR1hjcndYMTdmZmp0V05lSHQxUjZTQnR5ZEkzQVBmYmVXeDJ6QVZ30gGTAUFVX3lxTE00bXByXy1kVFNoRF9mRW5LVjlMM2NCTFRFNmFSN3FSR0FyMmV5emRKUC13eFFYeGJudjU5T25yalItMlJBQnRIV1FrLS14MDU4UHctSEt1aXgzODBETFlZMV9BQnZRM3Y4SEh2RHdhTGUyVmhFZnZrUjBJaTFzRTNaZHJfUm1Ibmd1S0RMeEJGSlRnMA?oc=5",
+       "publisher": "Forex Factory"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "reports": [
+  {
+   "id": "south-china-sea-medevac-kota-20261009",
+   "title": "南海兩起摩擦：仁愛礁醫療後送菲中各說各話，科塔島再現驅離",
+   "theater": "global",
+   "asOf": "2026-10-09T15:52:00.000Z"
+  },
+  {
+   "id": "zaporizhzhia-civilian-strike-20261010",
+   "title": "札波羅熱住宅區10日遭襲：烏方傷亡通報出現11與12死差異",
+   "theater": "ukraine_front",
+   "asOf": "2026-10-10T10:59:00.000Z"
+  },
+  {
+   "id": "ukraine-fuel-civil-resilience-20261010",
+   "title": "烏克蘭加油站強化防護：冬季供應承諾仍須後續驗證",
+   "theater": "ukraine_front",
+   "asOf": "2026-10-09T06:05:27.000Z"
+  }
+ ]
+}
