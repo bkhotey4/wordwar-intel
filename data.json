@@ -1,0 +1,355 @@
+{
+ "generatedAt": "2026-10-17T12:40:39.065Z",
+ "ruleVersion": "iw-v2-trial",
+ "theaters": [
+  {
+   "id": "taiwan_strait",
+   "name": "台海",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "0 項主要、5 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "中國海警進入金門、馬祖限制水域或登檢台灣船隻（2 家以上媒體）",
+     "summary": "10/17 7 家媒體報導中國海警進入金門、馬祖限制水域或登檢台灣船隻：中國2艘海警船侵擾東沙限制水域 海巡旗津艦等併航監控強勢驅離對峙| 政治焦點",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PeVEyYm9sbTBoUWtJaEdtVmluM25PU2xkZ1dLcUp0RGhFSlFENjVHYlBPUnpEU2FCcTJtWTBrS1RxMWVja0NkS0U1NVc3NjZhb2JoMUZqQ0RBSjla?oc=5",
+       "publisher": "太報 TaiSounds"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNbkx1U1NaaU1NbkN5U2t2aDVLM0JianlYbGh0WFpXN1VyRnNUZHVaQmxJVVEybUsxRTdNRG9fTldCZE82V1ZkOUlpbWtVdHVGcmZhM2xWczBIS1EtYlFtVGVIZ25Kb25HcE94NFlWT2d2NURWOWtiUUNGc09GRzhDNmhsMkZ1dGd4cXowbXBXUGM0RktaZUduSkVIRHB6OHhvX3BpT0dPTWstWGVvZzVKWGZkTTAwZUVkZ3ZKbjZPY2l4NEtidld2azZobE93SW9LUUxxcDdqSHhxNFY3NkJIRmprUktHc0JuaVMwN0lTaEY1V1RSbDBoSmpPaHV3Z1Ewa29nY2xxOUF3eXBOekgxY01qNnA1OTdmQlVxZ2poWGdBMHJUbmRDTmVXVkQxZ3owMkNkdlV1R0JRNkxHMDMxWE5RWlgzclQ5SVJaRlMzcTdQRTlTQnpacG8wdmFEY0tRZUswNmhFMHZsZVRHcnZMMWszeGMtN1pxbWRFWkFZNjJ2WUtISmFod0xYZUctdVFRNEtWcG5JWjByRUdBME5KODdNVGFQbThaXzFuOHlHT1REaDdLbWk3OEZsU0NfUQ?oc=5",
+       "publisher": "Yahoo新聞"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wd1FqQlE1aTBGYWhFcWpLaTBEQnpCSGJ1clRCQzctMFpMdHlGREx3dWphSjVnVnZpdU9Gam1kTmw4SUlwUjRtd3VEd3luTzdoVkp2V1duajY1al93bnNLRW1HZXg?oc=5",
+       "publisher": "LINE TODAY"
+      }
+     ]
+    },
+    {
+     "name": "政治時間點後 14 天內（就職、過境、軍售、國慶演說）",
+     "summary": "中華民國國慶日與總統演說（10/10）後 14 天觀察期。前例：2024 年國慶演說後 4 天（10/14），東部戰區發動「聯合利劍-2024B」圍台演習。",
+     "sources": [
+      {
+       "url": "https://www.cna.com.tw/news/acn/202410140010.aspx",
+       "publisher": "中央社"
+      }
+     ]
+    },
+    {
+     "name": "外交關係變化，或中國官方涉台言論明顯升級（官方發布用語高於 90 日常態，或媒體比對）",
+     "summary": "10/16 7 家媒體報導外交關係變化：帛琉總統揭中國利誘逼對台斷交 強調承認台灣是自主選擇| 政治焦點",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51UWZXM3RLYjFJTkYtYzVTQVdlanE3dWx0SHlSWWc4VUktWnAyMVN4SGFrTTVaU05SVUR5OExtOHFFZnhIdGFHVjBCVnFoNVQ5T1lzUEFmR1NRSF9P?oc=5",
+       "publisher": "太報 TaiSounds"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQNmt2SmlaNXJFcWZLdkVzVFlRY3dsZkxHZjlDVnZ5RlozelZqQ2VXLWlpcmFEVFpyUHZobVgxQU9RaUxSZ3R4bWFQMlJHaTMzYWtLVjlzWFVOWGJJY3Z5X2tmT19RR2h4MkMtYlZscWloeWwyMFdxd1hERWZ2Ykt3WmlsZE9kU0c5M0F4ZTBCTDJ0a0Q4Nzhzejl4bnRtOXAwWC1sRURmbXFYdlFOQlhJOVBzRmViTDRSY2ctOVQzdjVULTd3SnhFVkd0LWNiUHlTWlZFajJUVjdiWExQRGxwMjNCakoxN2JFZWZGU25ORVpyaVNKWFhKTzlmQUJxTEZmd0FfQW9BSkVrcFZfSHR6Qk5kdVVXMFhtM19FTTYzMGFtaTlDSDlJV1M4TTBFbzlKN0RNb2Ffa2UyNEdTZHA4QjFsT00zSjl4bWFyWno5eHlmLW5LZmFVLWxsT1g3SXlmU2dDRzZuTjdyeUVmQkZ0Q1BQUmhkTGdHVG82SlBRN1Y?oc=5",
+       "publisher": "Yahoo新聞"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MSW1tVURWdnRoampWZnpaZjU5d0tHdzNfMjZfVU1EdW9SNXlaa2xpMlF5bWdZQnF6MEp6U0M2c1NnZlVfOFBWUnloR3gtSVB3RWJwMnlsRHhpTDBMWS1tYUdzSFo?oc=5",
+       "publisher": "LINE TODAY"
+      }
+     ]
+    },
+    {
+     "name": "晶片、稀土等半導體供應鏈管制升級（高於 30 日常態）",
+     "summary": "10/17 半導體與關鍵材料管制：International News: China proposes export restrictions on AI, Chip and Solar technologies（近 3 天 41 則，高於過去 30 天常態 P90 3）",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRWRwREQyNnM1U1AxQ2xsb0tqZ1JDek5sb1ZXREUzMGhoMl83U0hFN0ZyWnlTQjJmWE9QUEtpUHRvb0tjWk1TbXN0ZEdRaUxpRUlGUUlrank4NmU3Z1VPdzlmbEoxMUtqTEFNbU1JQ3QwRnc0Sl92NmlTR0xYRUJLS3ZJNTQ1ZW43c3FaWExTa2NmaVFvVEVRZElJdS1oOVcxTWVvY1lEVlZnRmcwMlpKLVdIYXg0d1ZhaGxESDZiSXVSU1FETDNyQmZaVTh5N00?oc=5",
+       "publisher": "Belize News and Opinion on www.breakingbelizenews.com"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JVWVsT1cyV05nc05VMWk1bkRLTnlOWVpPTWh1ZmFsUUsyRDdoU1VhMEVyNU9ab1c5bVlWZlQtSEpPZFhkWHNOX1pOVQ?oc=5",
+       "publisher": "鉅亨網"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGFTVVBUaFdrRU5zbEh4bzVRZlZVT29kQjB3NzRBVk81MWtWajNJMzhfTER1WjVHbkZaelpXWGxCSkVGZlpVajNfVWVudW50SUlvRTlxQWZwdU1qc2lfODZ4R1hSbnk0ZnNQMDJGR2tHWTFNc3VTOEdKOENadXRvRU5VcG96Q1JxM3I1MUlGeTNzdlRFb2Vfdk42TE5QLW8td0xWRm9udw?oc=5",
+       "publisher": "International Business Times, Singapore Edition"
+      }
+     ]
+    },
+    {
+     "name": "中國對台制裁、關稅、禁令或懲戒名單（2 家以上媒體）",
+     "summary": "10/17 2 家媒體報導中國對台制裁、關稅、禁令或懲戒措施：In A First, China Sanctions Ministers of Diplomatic Allies of Taiwan",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xZlRYUHpUU19UOWtZdEZYOTQ3Y2FxZTkwZ0tRZGh4Ry1jZnp0Z2djNGNJcDdEaENBbkF6bmdoMWpnbUF3dlRsWUtSUUJwQ1NpR3JNakZ5SDYyc0VDTlltYkhZZFlnYkFDejUweUZjeHdkZHM?oc=5",
+       "publisher": "New Bloom Magazine"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mNEZtczk4SnROUUZ1T0V6b2FCOWhsTmhBazFhZlptb3RqZnZ4WDVWRzN5RVhlempuMi1CYlBhSlBKVXRDejZaeVlDNElwYzE1OHc?oc=5",
+       "publisher": "鏡報"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iran_gulf",
+   "name": "美伊戰爭與荷莫茲海峽",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、0 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "UKMTO 波灣／荷莫茲／阿曼灣船舶遇襲超過 60 日 P95",
+     "summary": "近 7 天灣區船舶遇襲 13 件（60 日 P95 為 10 件）；最新：2026-10-16 Persian Gulf，UKMTO #175。",
+     "sources": [
+      {
+       "url": "https://www.ukmto.org/recent-incidents",
+       "publisher": "UKMTO（英國海事貿易行動辦公室）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "europe_security",
+   "name": "歐洲與北約東翼",
+   "level": 3,
+   "levelName": "高度警戒",
+   "reason": "2 項獨立主要指標觸發，且有官方或獨立來源",
+   "triggered": [
+    {
+     "name": "波蘭／羅馬尼亞／波羅的海國家領空遭侵犯",
+     "summary": "羅馬尼亞國防部第332號公告：當地10月15日01:34，一架無人機在Sulina東南的羅國領海上空進入國家空域約一分鐘後從雷達消失。其餘同夜目標未再入境；UTC觀測時間為當地夏令時間換算。",
+     "sources": [
+      {
+       "url": "https://www.mapn.ro/cpresa/19441_informa%C8%9Bie-de-presa",
+       "publisher": "羅馬尼亞國防部第332號公告"
+      }
+     ]
+    },
+    {
+     "name": "戰機緊急升空、機場關閉或交戰規則變更",
+     "summary": "羅馬尼亞國防部第335號公告：當地10月17日凌晨偵測烏克蘭境內朝Plauru北方邊界移動的空中目標，駐羅西班牙兩架F-18升空；當地01:54向Tulcea北部居民發RO-Alert，02:30解除。觀測時間採RO-Alert時刻換算UTC，並非目標首度出現時刻。",
+     "sources": [
+      {
+       "url": "https://www.mapn.ro/cpresa/19444_informa%C8%9Bie-de-presa",
+       "publisher": "羅馬尼亞國防部第335號公告"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ukraine_front",
+   "name": "烏俄戰爭",
+   "level": 3,
+   "levelName": "高度警戒",
+   "reason": "48 小時內曾達較高等級，暫不降級",
+   "triggered": [
+    {
+     "name": "俄軍飛彈與無人機 7 日平均（或單夜飛彈數）超過 60 日 P95",
+     "summary": "2026-10-17 無人機 332、飛彈 4；7 日日均 312（60 日 P95 為 303）｜7 日平均超標。烏方公布數字。",
+     "sources": [
+      {
+       "url": "https://t.me/kpszsu/87534",
+       "publisher": "烏克蘭空軍（交戰方公布）"
+      }
+     ]
+    },
+    {
+     "name": "能源設施遭打擊比例上升",
+     "summary": "澤倫斯基10月17日稱俄軍夜間攻擊涉及烏克蘭逾15處能源設施；此為交戰方聲稱，設施名單、各處實際損害及精確襲擊時間未獨立核定。00:00 UTC僅作事件日期容器。",
+     "sources": [
+      {
+       "url": "https://apnews.com/article/russia-ukraine-war-trump-sanctions-energy-07e1dfc41bdad7b3292c6c263005fabc",
+       "publisher": "Associated Press（引述烏克蘭總統）"
+      }
+     ]
+    },
+    {
+     "name": "新制裁或航空公司停飛（高於 30 日常態）",
+     "summary": "10/17 148 家媒體報導新制裁或出口管制：Trump puts new Russia sanctions passed by Congress on hold, saying waiver is in US nationa（近 3 天 175 篇，高於過去 30 天常態（P90 66））",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORnRqZk1ScnRIdFBadndpbkFmYUtmdEh3T1E2T2xYS2EwcU4tRXdNYjNzS2p3NzZsYjJWMVFuTGlZNlF4V1IyWmxmNGJaMEYxa2EzdzVjYVFrQzBmOVpEQlFTZ0tHSU5pWEs0ZnR1YW1TWlQ4U29wekNUd1FrUGpPZ3BNMUVhTzV3ZDNWRWs3WkpGeTVOZHVGREczSm5mYnpDSDJQQjR2X0VFSWlGTkEzVGlEc3YzRG1nczJjY2ZZWUFqc1dkcHBKTFNHUmRIODNLakVid2FScnJ4dVRrS1NnQ043emtSS0tiUnNHOdIB7AFBVV95cUxORnRqZk1ScnRIdFBadndpbkFmYUtmdEh3T1E2T2xYS2EwcU4tRXdNYjNzS2p3NzZsYjJWMVFuTGlZNlF4V1IyWmxmNGJaMEYxa2EzdzVjYVFrQzBmOVpEQlFTZ0tHSU5pWEs0ZnR1YW1TWlQ4U29wekNUd1FrUGpPZ3BNMUVhTzV3ZDNWRWs3WkpGeTVOZHVGREczSm5mYnpDSDJQQjR2X0VFSWlGTkEzVGlEc3YzRG1nczJjY2ZZWUFqc1dkcHBKTFNHUmRIODNLakVid2FScnJ4dVRrS1NnQ043emtSS0tiUnNHOQ?oc=5",
+       "publisher": "FourStatesHomepage.com"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNmYtTDF3NXJvSE05MUpQSHZWc19MM0F3dXNoZ00zSGVENE03eUVTM3UxME5LYWhqWmxoamdaSWhrbmlHMmhwdGo0TUtPc3h3NTE4aUFoOFEya1lYVDNVMHRadld0clVRY3NrQzJHbl9wUTJIN25qcmZWYTNrRFViOWdnazhaSkQyRDJSc0ZzampOQmlDVEFXZUdIbzhMc2otQkNMTUUwckFCLUlyMTlSUFdpT1p2U3Jna05DNFluNUx4cm83NmdHVGMtVV9JeGhkM19yMnlNUnRtaUNaUUHSAd4BQVVfeXFMTTZmLUwxdzVyb0hNOTFKUEh2VnNfTDNBd3VzaGdNM0hlRDRNN3lFUzN1MTBOS2FoalpsaGpnWkloa25pRzJocHRqNE1LT3N4dzUxOGlBaDhRMmtZWFQzVTB0WnZXdHJVUWNza0MyR25fcFEySDduanJmVmEza0RVYjlnZ2s4WkpEMkQyUnNGc2pqTkJpQ1RBV2VHSG84THNqLUJDTE1FMHJBQi1JcjE5UlBXaU9adlNyZ2tOQzRZbjVMeHJvNzZnR1RjLVVfSXhoZDNfcjJ5TVJ0bWlDWlFB?oc=5",
+       "publisher": "CW39 Houston"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR3pLcGQxRFhIbFRZbTNJN0syZk1TT01CSXJZUTVjUmUtMzZ6ZU41MXU2djFsUmMtSk5PWHdSZ1VuT2JvY2o1TkFQTmJkcllhTUxZODk1YUVudkdZTHF2eTNkUTgwaHU5Z3Qwa3E2UkhUNEtlMVpTcDBoNE16VzlKeWR3MVJ0UEszcldDWXNPM0VfOXlVSWlxSUNlaFJ1eVVxU3VpMVpSQjVjTEloZU8tWDNrOEhXRUplaFFsNUlnbVVOX1dnZ2lWRk4xcFRBczM4bWhrRHFyeHdGV25QNk5aWjJ4QzJ4SWxVLUHSAeoBQVVfeXFMT0d6S3BkMURYSGxUWW0zSTdLMmZNU09NQklyWVE1Y1JlLTM2emVONTF1NnYxbFJjLUpOT1h3UmdVbk9ib2NqNU5BUE5iZHJZYU1MWTg5NWFFbnZHWUxxdnkzZFE4MGh1OWd0MGtxNlJIVDRLZTFaU3AwaDRNelc5SnlkdzFSdFBLM3JXQ1lzTzNFXzl5VUlpcUlDZWhSdXlVcVN1aTFaUkI1Y0xJaGVPLVgzazhIV0VKZWhRbDVJZ21VTl9XZ2dpVkZOMXBUQXMzOG1oa0Rxcnh3RlduUDZOWloyeEMyeElsVS1B?oc=5",
+       "publisher": "WATE 6 On Your Side"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "korea_peninsula",
+   "name": "朝鮮半島",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、0 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "北韓彈道飛彈發射（海上保安廳航行警報，或 2 家以上媒體）",
+     "summary": "10/17 11 家媒體報導北韓飛彈發射：South Korea, Japan detect multiple North Korean ballistic missile launches",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSTFkU3Q2dVZIUTdMVFdXa0VlM2pVQWRYTm1US294d1diUUt4NEswZ2U0MHM5dkNEbmRrZnd5WHZDaGhqeks5emNwWmRvdlZhNUdQdmdmZzhTVGI2T1loNWVhQjIxbFA3NTBtU21ycjhqc3NkMnpoQlhxNlgwQk9WNjk0cGFtQjN6cFlVZF9wXzQ1R2QzeXlHVmc4S3NTNGlW?oc=5",
+       "publisher": "News On AIR"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzV1RrbFBVR0hUUU1WOThmY3hZdFh5TVZXbERyWmpBZmJEYVFtT0dSdWNWeW41LTlCUl9pTkhFNTVLdWwwdE03UkRHRHNrakYwSGpIVlpCTVptWWx0OXZTTg?oc=5",
+       "publisher": "民視新聞網"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lbWxZOGY1bTdibHBlT1J5YzY3SlpsQmtzcjJTR2o0R3REVzZxSEVERk1tSU9ZeUNOWDlDTHI2cnhQcjVZbG5jZHg4RVlmWnZOanNlRmRadkt2Z2xaM2NoSGVvNGg1UzEtR1J5NVNaZThLaGw5?oc=5",
+       "publisher": "LINE TODAY"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "south_china_sea",
+   "name": "南海",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、0 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "中菲海上衝突（水砲、衝撞、雷射，2 家以上媒體）",
+     "summary": "10/15 3 家媒體報導中菲海上衝突（水砲、衝撞、雷射）：4 people taken to hospital after collision in Scarborough",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM0FGa3BVQVQ0Y0lLRHJYRm9EdzcxWjdZRWRTZnkzRDZYZy1DcUhuX1UyYUdTYW1MdkFwTWJ0bFJweTFlbHhtV2Y3emJhTmZET2psOG1PRU0ydXVXV0MwTGJlSVZ6UWxIRnVuWkxFcmhpY2d2YVBDV3BPV0hMUEFUUnplaGl4R3R5dXBQdGdaMU9PSnMtS0dqVEpBT0EwQQ?oc=5",
+       "publisher": "CTV News"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83amNqUE1QZC1SSnRQTkN6bElrOGdQNWY1NUhMTTUzaGR1T3k1Y0hqNHZzc3IxNHF4R3lVVlBEdEFPb0FNZmY1SzUyaWFoSEdjMFRKdlJpRTVhUUFsNEl3LW9ZZ9IBY0FVX3lxTE83amNqUE1QZC1SSnRQTkN6bElrOGdQNWY1NUhMTTUzaGR1T3k1Y0hqNHZzc3IxNHF4R3lVVlBEdEFPb0FNZmY1SzUyaWFoSEdjMFRKdlJpRTVhUUFsNEl3LW9ZZw?oc=5",
+       "publisher": "商業電台"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxOWWVFTXM2aXdlUEhJa1AwU3hsdDZhZ1ZjcFBnOWVqSGoySnRQS3pOYmFSQ25HMF9UeDFZdFI4SjdWTHhPX01PZktzcTliM08xdjREWHR2Ui03b2FGRGF4QW9vaFdBMjM0NVFTeksyeU11N01vemxYQzJybmxwbGFBVGNZSUhsUF9IeEFFdWY1d2h1d0tJWFFiaU1UaGpoSHFaTnl5RENhalEzQ3hUalllcXFPRS1EdHlySlUtTFNnem9SaU9mRVREQ29yWGI1T3M1UGd1R01ST1QyVnJvVXFHVXpwSGJsTUNkazYxVFhoOTB2SmhadXp3SVppYkZDMHJzLWx2MklrRnF1UUFZWHQwSDdVZGMzNlZMcVdYMjdkWHlHOXZvNnBEOThkMGladUVwUng0cFpYeVRvOWhZcVlpSWVnSWdZM3J0eUY0S2JjcW1rR3Foazl0LWRyR2xGNTNxUzRNUlN0NnpkQnp1X1R4WmZWVExkRENXQlBhZ2JTWlFrMjI3VHVvZ3VZaHY2ajZiSElhc24zenh5N3hxUmdzV2FYS2tKYVdNaEotNTNULXRDNVlIR01qQ0N5WEhHR1YzSjBVZHVCdC1IdXE3dGc?oc=5",
+       "publisher": "堅料網"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "middle_east",
+   "name": "以巴、黎巴嫩與紅海",
+   "level": 3,
+   "levelName": "高度警戒",
+   "reason": "2 項獨立主要指標觸發，且有官方或獨立來源",
+   "triggered": [
+    {
+     "name": "胡塞攻擊紅海／亞丁灣船隻（2 家以上媒體）",
+     "summary": "10/17 2 家媒體報導胡塞攻擊紅海／亞丁灣船隻：Oil Prices Rebound After Houthis Say They Attacked Saudi Tanker",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVkRmX20wdm8zRGNiQ0R3OFZVT3JGWlQzbVYyVjdkYmxxZ2tXTXZtWHBHZEswejdkRTk1V2lZc3dGRVZmZU8xYXpPNVhDZC1Ra3d6RVg4WUM1MXk3VHhEYnYycWtUb0FjQWg4SmloSnlLM1JkY1pYVUdtTGFHQ0tRV0JTM3ZlQ1ZRdEg0MTh1SV9aSHJLYzhjQnBB?oc=5",
+       "publisher": "EnergyNow.com"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM0UyXy1xT19mOXRsQnFGclk3U2Z5Tm1MTmFaU1FXSk90OGJvNXNvUTJJXzUxbG9pVG45akkwRjZiLUl2SVM0RU1fRXNuZkNDVDRPXzhEOERvX2lWTGcwMnNyc2pHeVl4bWdvSkRIYzdBX0J0UjJ5eWxqQmlzUDZaOEJ0MHpxZ1BFbHpMWFduSExlYnA2bDdxSTg1cFFHZkk0cS1SVEF1czF5X2Z6NTlZbTBsUGRUV0UzcHJpN1RjZS1NZ2VBdUxLcjdwN0h5ODdTek0yR2hFVdIB3AFBVV95cUxNeUNrcHdaSjBqd2xtU0RvY3lPWlRiYU93dTBzNHRXajVNMVRETGtDRkUwNTVncW52U2RBZnZTVFllQ2lHQVVPczhtUFV0ZjZidlJCU3FvR3NDSnZDTk14cnJucXdMUzIySjkwVDhFR2YtMFRxdC1OU0dDM0ExSHl2RmZ0NWNqRHdFQjIwOW5Vak82cVR1VW5DalI2djRENl9sWnNEaWlIekNFaWRjZUV6TUJKaE9mTlh3Zkp5cE9uTXhLLXp1QVJ6NUc5WnRrYWdoazFRWFMtbURKdmR5?oc=5",
+       "publisher": "Business Today"
+      }
+     ]
+    },
+    {
+     "name": "以色列大規模召集後備軍人（高於 30 日常態）",
+     "summary": "10/15 3 家媒體報導後備召集、延長役期或動員法令：Jewish Israelis: Next Gov't Should Take on Haredi Conscription; State Commission of Inquir（近 3 天 4 則，高於 30 日常態 P90 2）",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFWDhvUnd1LThzeVdsZ2VsT1g2RDNFbnpWSXp0bHBxLU0yZGxkYzV5SnpPUUZtV0E4ejNETWtKd2Ric3lVdWdyZHJKbGY?oc=5",
+       "publisher": "The Israel Democracy Institute"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhOFhkRkF0Sy1XWGNhUUVVc1lWSWtuN0VPRUhrUmhzYkU5dTRvcHBLVm1FZWlxd0M2T2R6bVNPaTNEelQtZkpPa090blFJREg1T251V3dxTUxlOVlY?oc=5",
+       "publisher": "The Jerusalem Post"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRVM4QVhzQzNrdUZUc2V0SjdUdDNrQk51SWVlazlQVElJYlNWVE9uNjN2bzl5THVwSXNKWUtNT19nbXI3dldoRDdyUk5CWU9ycG41UFJnZGJ4RTV0ek5pbjU2YXdmd0p5QkdDV0haRVBNNWdkSDFIdVlqdFlkSnQyblMxLXMza0NiQlpXeGs3QkJtQ1BqX0N3SEQ5YkprMmhNZlBMWlFVSm1FWC11QUZiaVRR0gG3AUFVX3lxTE1BekNzSXg2OFlwVnd6a2Z6UUJlQkVuOU9DMnNySUxXQ0VNbFRkVnBLMnFRdl84aFhpMlR2X01wQzJFX1BZTDJ1bWtzTmxENjZYaWtKNU9Sa3Z2cWlob1hlcUFBZUxWWmduWlN0MGV6U0lyWTZ0Y01BZFVfeVUxNXR2Smk3VFg2eVJGSzlTSXVEbmxLdUxsam1aVDVYeDNFanVJdXRMMTJZb0pLZjdfSXA4MVBfck04Zw?oc=5",
+       "publisher": "The Times of Israel"
+      }
+     ]
+    },
+    {
+     "name": "以色列緊急狀態、民防或醫療備戰",
+     "summary": "10/15 6 家媒體報導緊急狀態、戒嚴或資訊管制：Israel extends home front state of emergency until November 3",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZGdZbWwxVWxkSDZ5dUo0WlROb29wN3B0WnZSb09Cd0kyYnhMMHBRM1VHT0UxUkdMa0ZhQ24ySTJkQ1hnMGtLT0pDRzh1VFM4N1pUZHp6aVRkT3VWc2ZQSVhTU2VSNC1YWVQtMjBvdGJwd21jaVM2RWtTY281Q2RmVFhhdVhraU5Nazd1c1l4M1NHNzR0Q3FpWTN3MHQ0NU5lWDhr?oc=5",
+       "publisher": "JFeed"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMVdhanhzZC1oQWFEank4S0lIUzU1S0JiektIOW4wajY4NlFSQWRsNnlOUEM1cVprbVUwNnVmd3NaTkQya25oRGxpZlo0eEF3dThvbTVlMG9PR2Z5ajhiMzVQSkRTOFdRYno5Y203c1YwUGJMSEJKNGxjNFdKOXB4SWlOSzJ4WVNJNy1hZFp6T1pXUmJCUkUycUw5anRjeWJIVUlXaTRQVnQ1aUhTV3pPMEI1NTAxendzMWFEdUthaHVzZ29WOG94SzdMTmZWNldoNUpiVU1KdzEyQQ?oc=5",
+       "publisher": "صوت الإمارات"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTZRa1FpQmhMRTFfRC1KV2thUnQ4dzZyUFZqU1VpTjdzSU5BX0l0Nk5kSlI1RGlocVlwOWQ3U1h5V05xT2VhSS1vdl85d3oweTNRMXdELWhTY3JyLVhNMFZHd21VV2xNUVh5R3dGSF81OFA1ekNrdmZmWk00SURLMWxsb0docFQ2RVdnR2cyajdNSE13c05NV1FYbUp3Y1Y1NTY5UWhnZ09CRjNoOG56RHFPTDNsdw?oc=5",
+       "publisher": "Global Arab Network"
+      }
+     ]
+    },
+    {
+     "name": "撤僑、使館人員撤離或旅遊警示升級（美英日台官方公告或 2 家以上媒體）",
+     "summary": "中華民國外交部領事事務局（旅遊警示）：沙烏地阿拉伯 公告含撤離／儘速離境字樣；第四級：紅色儘速離境 - 沙烏地阿拉伯 - 沙國與葉門邊界地區納季蘭 - Saudi Arabia - Border regions with Yemen (Najran)",
+     "sources": [
+      {
+       "url": "https://www.boca.gov.tw/sp-trwa-content-3139-4b5ba-1.html",
+       "publisher": "中華民國外交部領事事務局（旅遊警示）"
+      }
+     ]
+    },
+    {
+     "name": "安理會表決、緊急會議等國際組織行動",
+     "summary": "10/16 5 家媒體報導聯合國、IAEA 或北約等國際組織行動：UN Security Council condemns Houthi attacks on Saudi Arabia",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZMWYxa2t6djNPb3JZbzBPRWROSURCUEFCaE9xVlVSdWdLMzRqZUl5Z3BCY2lXSGpSZXdPMlZyc1BTUFBDdUk5RllsN2ttVWg2MlRQaFVxTUdBd3l2RUdEbG5TRHljWmRIbmlWRnFnN21oLThHaERSYTdYN1M?oc=5",
+       "publisher": "Xinhua"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPaGtKcHVCUG5ETzRKbDRieXVNNTg3WmJjR2xOZGJSQ05nOExXS2lOalB4V0h6NlRkamhWOFZ5SlgtRkh0dEItTmtfUHJ5aXpvNzFxc0RLNXZ0eXZjY3o2NTUxUGc5YTBWa2VDM3k5SmtrY0xQYUxoV1d4aTZsY2dMYlNzOTJoZVBCWlQwTmQzQzhVRzRvdEdNeGhOMFJoYVcyM0FpbUtoelMteG9IQUw5NEpIc3NwSlozOEVUTUtzaEthbG9GeEVNQXVJT2ZubUZCUEVvOU1lX2l4ZW5SaUt3N2RsM3RCVkxFVEtTTzI1REctYW5jYzVFX0FVZ0VFT29oNWc?oc=5",
+       "publisher": "Middle East Eye"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYWptVTB5SEo4XzlMTWJlQnVsSzR0VF9kT3dHVVdwSm5lR2VlbWljRi1tU1NfQUU3N0JIZ2czYnZ4cm1aeGhjQ2t5SEdkNF90WHFuVzJMRnp1R1FLSmYzRFpVV3VjeFFNR2dDcjNTQXdBVl9Yd1VUZzlEWTl4Q1NjOVhTLURVbFhDN2dUYldiMTJOMFphNzJrWG5NOHB0NkhjOUJ3a2kxWmY0YzVzQUJ3dnFfQzRnYmdV?oc=5",
+       "publisher": "The Insight International"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "reports": [
+  {
+   "id": "us-graham-waiver-ukraine-20261017",
+   "title": "美國暫免新法對俄制裁與關稅；既有制裁仍有效，烏克蘭呼籲恢復施壓",
+   "theater": "ukraine_front",
+   "asOf": "2026-10-17T10:11:09.000Z"
+  },
+  {
+   "id": "aden-airport-missiles-20261017",
+   "title": "葉門亞丁機場16日晚遭兩枚飛彈擊中範圍；航班起飛前乘客撤離",
+   "theater": "middle_east",
+   "asOf": "2026-10-16T21:51:00.000Z"
+  },
+  {
+   "id": "black-sea-merchant-ship-attacks-20261016",
+   "title": "黑海商船連續遇襲：羅馬尼亞領海油輪起火，7船事件責任方未明",
+   "theater": "global",
+   "asOf": "2026-10-16T00:00:00.000Z"
+  },
+  {
+   "id": "ukraine-volyn-blackouts-20261016",
+   "title": "烏克蘭16日多地遇襲：沃倫州一度約37萬用戶停電，三地傷亡續查",
+   "theater": "ukraine_front",
+   "asOf": "2026-10-16T10:50:00.000Z"
+  }
+ ]
+}

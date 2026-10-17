@@ -1,0 +1,24 @@
+{
+ "name": "WorldWar 戰況情報站",
+ "short_name": "WorldWar",
+ "start_url": "./prepare.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#060d18",
+ "theme_color": "#060d18",
+ "lang": "zh-Hant-TW",
+ "description": "民眾準備清單與附近防空避難處所（可離線）",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
