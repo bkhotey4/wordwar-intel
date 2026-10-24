@@ -1,0 +1,324 @@
+{
+ "generatedAt": "2026-10-24T21:45:08.715Z",
+ "ruleVersion": "iw-v3-trial",
+ "theaters": [
+  {
+   "id": "taiwan_strait",
+   "name": "台海",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "0 項主要、7 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "中國進入緊急或戰時體制、民防醫療備戰或戰略物資收儲",
+     "summary": "10/22 3 家媒體報導緊急狀態、戒嚴或資訊管制：中共跨國鎮壓只會「鍵盤聲援」 綠批藍：台灣戒嚴唯一品牌| 政治",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uOHhwNndjTk42UFJWdnAyV1czVEZicUVuUkN6cm5OdmRPbWh3ejI5em1vbk1rcDYydDlJaV9KNXJZRV8xVjU4UnVBWFRWRGRVTTRFa3h0VzhkU0U?oc=5",
+       "publisher": "Newtalk新聞"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWkJfZUZJN1ctOGRqSlFlcjMxX2twRjNTV05OLVpFTXJpR1UwdHV1ZWp5QlZCMVB6VXRTZXVpMlFsQ0J3VDA5eEtfYjVtOXA4SGdFY1hLa3I0ekZ4eWNZLWljS2JUUThTb0Zza1Y2Q2xHQjNRdmRWbmoyeVdiVzgwU0pIYjY?oc=5",
+       "publisher": "LINE TODAY"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxQQ2ViT2FBNjdEQW1WTGhQeFpRRTJhcVJ4dGl1TzZCYlNGUkF3YXJqb2Izb3l5c1poRjVsaXdudWVCbHEwQnJqRXpaUzZZb0JfQkZvQU45ZjRVMHp0SzNoenhFdlVCLU9XcFNvRERmbnpRTXU1RjBZdEJmVTFDdDAyLU1IcmRJS1hlckFzOGYxa1pXb1NEeGg5dFdXSDVUcXhtMzRyR1B2YUFZcGZQRHpsM3oxeElNSTNGQTFqWFpOWWJGQnlha014ZWRNOGV5bWNHT1Nrb3B3Tm9aa0hoZk9KdmUyOXd1QlR6VVM1djdFaUpwVndJcFBVcE1lZjFTUTUxZUFxNkhhS0F0OVZ0OTlzdU04NURnMEpBQnFYZG9HUzZBV1Y1bTBISlExMXFjWUtrOC00OXhrRDJCMkRRZUZDQXhTOXJ1dHV4TFNkdU5pMWhmOENkcVVNVFJhZTA0bFE4X0Z0aS15alZtYlFic3hNOUY0WWtLdVZ1Y3dHRnA0cmdQRTJEak1lMjcwcGszS004NmJsQ00yUU5Yd1JzSmgxdzVDZ2tCb1BQdmtnSnJNRHZlSDU3M1A2WVZxNndjMkFuUHpkUGFUZEFJTUJTNlJPeTZERl8yRzFTdlZfNU8tUlRzODFHVWNKYU5hVHJ2bjZPVUdLNk53?oc=5",
+       "publisher": "台灣好新聞"
+      }
+     ]
+    },
+    {
+     "name": "日本統合幕僚監部公布中國艦艇／軍機動向",
+     "summary": "近 7 天日本公布中國艦艇／軍機動向 8 則（60 日 P95 5 則）；最新：2026-10-21 中国軍機（Y-9 沖宮）。",
+     "sources": [
+      {
+       "url": "https://www.mod.go.jp/js/pdf/2026/p20261021_01.pdf",
+       "publisher": "日本統合幕僚監部"
+      }
+     ]
+    },
+    {
+     "name": "台股、台積電或新台幣單日異常下跌，或外資單日淨賣超異常（證交所）",
+     "summary": "2026-10-22 外資及陸資淨買賣超 −816.6 億（前 60 個交易日平均 −84.7 億，z＝-1.14），單日淨賣超異常；市場因素多元，不構成投資建議。",
+     "sources": [
+      {
+       "url": "https://www.twse.com.tw/zh/trading/foreign/bfi82u.html",
+       "publisher": "臺灣證券交易所（三大法人買賣金額統計）"
+      }
+     ]
+    },
+    {
+     "name": "非天候因素的大規模停電、限電或電力設施受損（2 家以上媒體）",
+     "summary": "10/24 非天候因素的大規模停電或電力設施受損：新北近3萬戶停電侯友宜：下午風雨趨緩全力恢復市容與垃圾清運| 大台北| 地方",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TSF9MMWdHNEV1Z3QxaFNMQmxsU2pxZW9vMklPNTBER1FVRnBmdzNtc0YtcDhfTlBWb1BkMUQzNnl6UzhjdUZtNHpGLU5SWThk?oc=5",
+       "publisher": "UDN"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rOEh1Y0dmOWVqNk9EeFREeXBpRjhYdkJwVFc4RV9rOEN5UTZfNndLT1lQZDFOc2otc3hPa1k1VHFtNlp1U3VJRkJCVmtCQQ?oc=5",
+       "publisher": "TVBS新聞網"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQWlFIT0NkSjBZTWJqM2tOOHhyX0Rqc3FUXy1sUXA5cWNmZ044dVZtR1FzbnFHRE5YbnlUejdoQi1qeG56TDJIb2pSUjBjTnlNeXF3UWMycjBwQkpseUFkbnN0VF9LbGQ1UjE3YWl6b3NUaGlqaENQdXFVV2F2Qjh1WUtaVlJyV1NSS2d4dlRieVZiZi02WjNkZTRweE0yeUVNa2FsSFo3dUdwakphZGFOeHFkWVM4dXk4VjAwT19fMXdhQ3liblJPYUxFQ242LVRVSUprOWl0TVFYQWVxWkFlR2p4UVhhM3FYU3NVNU9RR01ZYlBNbjJtdVlaVWRhTjhTb1lJZ2NDTVl0NDc4dUZ0Uk0ybWkxSFFDd0UySEFfZEs2eks4b19ja0hRMGxYaGF4NGdvN2hB?oc=5",
+       "publisher": "Yahoo新聞"
+      }
+     ]
+    },
+    {
+     "name": "金門、馬祖、澎湖航班或船班停駛（排除天候，2 家以上媒體）",
+     "summary": "10/22 外島航班或船班停駛（排除天候）：澎湖機場11:20後班機取消機場現候補排隊人潮－民視新聞- 民視新聞網",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EUXpqeWFDWFRxNlhzOUFERVcxaGZWNThKOTM2Q2tuamhVMnNUd0dHQlp1dlRCYVVjOVAyUU93dzFfT0JYaWNKdjdOUmxobDZ3RWphbm13NnZORXctRmVCTGg1ZzVNREU?oc=5",
+       "publisher": "民視新聞網"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FUHl6VVpyUlNhN0hkWmhxNWZsYmhrQ0JjSlNSRXNmSWxYQjJROGlrU1pqRnlaSGI5TlhwSFE4cU5RZDlmMEJpM1dNN3hBYWF6Rm5MQXh5TXkyRmNLb1dfeWtHbknSAWpBVV95cUxOU3NRV3pJMk5mRTBYUjRPazUyQXdndkVlQVhFMndRVlcwOTRVMUdlZ2VtRV9Fd3FsM3M5LTdtRl9vMzZzSDZwbjNhRUE5T1JmYmhNZlU3OVdKTHRfMWM5M3hDYXRiRW14WjdB?oc=5",
+       "publisher": "自由時報"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44REQ2QzhjRGZHakpDV3FHZFZJUnEtSENzQzVMMm1jNnJtU3h4S3RFNVRjUHhtSkxXRjljZkhaSnkyd1pUZkh2bF9YSFJFeUxNeDcxWFNWaw?oc=5",
+       "publisher": "台視新聞網"
+      }
+     ]
+    },
+    {
+     "name": "美國對台軍售或涉台法案通過（2 家以上媒體；中方常隨後軍演）",
+     "summary": "10/22 2 家媒體報導美國對台軍售或涉台法案：President Trump has yet to approve $14 billion Taiwan arms sale — The Japan Times",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWlRZZnlLcGEzSWJJS1BjTDdSWWtwZ3hFUlltWHFScU5mQm1tOTMtY09Fd3R4Ql96dUZaTlBrc0RYQXBWX0tjWUFKYjBSUThqOHZfYzhTNXpybkhsRjlVdkJFZTQ2VGlPQXRBaFgwOUkxQnJKZWlQNGdoU0t4MWFCVVpqaHo2YzMwZFJxaXFuYm4tNUl0cVpkMTdndmZqR2NBb01CUlg2b0xpXzEwME15YV8xN1dFZTg?oc=5",
+       "publisher": "UA.NEWS"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DTjRSREt1SENrdUZ0dDA3WFBGSEJoak1vMmxWeWw5VUg2TUp4NzRRVkk5bUJjTThzaWh6MEQ5a3liZ2FLQlZINHlfdWPSAVJBVV95cUxPT1dZazVmckRGQWZFYXpyVUlPTkdydTBhWE5faTd4WkctMjROQUh6ZnlYcmhyWkFjdzEwczRRV3FOamhDV0U4R19IaXFpamhaa1pR?oc=5",
+       "publisher": "NOWnews今日新聞"
+      }
+     ]
+    },
+    {
+     "name": "全球新聞對台海報導量異常升高（GDELT，高於 30 日 P90 且達中位數 2 倍）",
+     "summary": "2026-10-24 全球新聞對「台海」的報導量強度 0.158%（前 30 天 P90 0.088%、中位數 0.040%），關注度異常升高。報導量是反應性訊號，不等於事件已證實。",
+     "sources": [
+      {
+       "url": "https://www.gdeltproject.org/",
+       "publisher": "GDELT Project（全球新聞資料庫）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iran_gulf",
+   "name": "美伊戰爭與荷莫茲海峽",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、1 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "國際原子能總署報告、安理會表決等國際組織行動（2 家以上媒體）",
+     "summary": "10/22 3 家媒體報導聯合國、IAEA 或北約等國際組織行動：Iran urges UN to condemn US naval blockade",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zZjJMem54TXJOSGxZeFFHWHYxaHZabEhEamJHbXRrcGRNdk10TGN6enRXeWNTcWJKSjlmUGJYam9QY3cxVi1XcA?oc=5",
+       "publisher": "Roya News"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2JWRC1HQjBUV2JDeXRFWHJNQm9XSTVqemVZZmJ0Q2ZJWXhYSGRuU0x5NXZvOEFGZ3lCU1B4LUktUVQtTzVmUms0NHY4Wkt5RkRWLThHNlBTVXp1NmRwS1RlUHFvQUJrNUxTalY2VThsZ3ZMRnJTSHB1cmt2UDNjaTZxdF9tWDhmcjFHYVRpdjB6cTTSAZgBQVVfeXFMT3dhMUs0UjBPb1RNVmROVlRkMi1xSlFWOWxDbFVWdzFhcTMwdU9ybWJhMEhNZ3ZEWk9QeUVLM0J0X0JEVmZVTlJWd3l6S2dhci00djlpOEtyV0ZFdWtqc0ZuMFZVS2h6SmhuM0c5MllsQkNJT3l1bXlucjF5T0lNQXZJQkFvRDh3c3RpNGVDSXd5UERTM0F2YS0?oc=5",
+       "publisher": "تسنیم"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aQXVNUDZ3LXRRMFBOM210TVZ1OTVkc2NIYnFNbFFqcC1GcVE0YmJaaEF2YlY5anRCWHJTQk5TZUU2aVJ6eGdKZFRfaWt1Rk1xNHlzWG9FQlRSY0FfbjYtcVhOSkpablNnSFg5RWZ5TEhzdEhEMXZHRnlyVW1Gdk0?oc=5",
+       "publisher": "8AM Media"
+      }
+     ]
+    },
+    {
+     "name": "撤僑、使館人員撤離或旅遊警示升級（美英日台官方公告或 2 家以上媒體）",
+     "summary": "美國國務院（Travel Advisory）：Iran 公告含撤離／儘速離境字樣；Iran - Level 4: Do Not Travel",
+     "sources": [
+      {
+       "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irn.html",
+       "publisher": "美國國務院（Travel Advisory）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "europe_security",
+   "name": "歐洲與北約東翼",
+   "level": 3,
+   "levelName": "高度警戒",
+   "reason": "2 項獨立主要指標觸發，且有官方或獨立來源",
+   "triggered": [
+    {
+     "name": "波蘭／羅馬尼亞／波羅的海國家領空遭侵犯",
+     "summary": "立陶宛國防部長接受LRT Radio訪問稱，18日上午不明飛行物進入立陶宛空域，雷達有追蹤；03:15 UTC是約當地06:15戰機應對時刻，並非精確越界時刻。機型、操作方、波蘭段軌跡及疑似碎片仍待調查，未證實俄羅斯或烏克蘭所屬。",
+     "sources": [
+      {
+       "url": "https://archyvai.lrt.lt/naujienos/lietuvoje/2/3086016/ministras-kaunas-galimo-drono-numusti-negalejome-nes-jis-vizualiai-nebuvo-matomas",
+       "publisher": "LRT Radio直接採訪立陶宛國防部長"
+      }
+     ]
+    },
+    {
+     "name": "戰機緊急升空、機場關閉或交戰規則變更",
+     "summary": "Reuters直接引述北約官員確認，18日兩架義大利Eurofighter在北約指揮下升空應對立陶宛空域不明物；立陶宛危機中心稱Kaunas機場暫停航班。天候阻礙目視識別，未作擊落。03:15 UTC為立陶宛軍方所述約當地06:15的應對時刻。此筆與同日eu_airspace是同一事件的不同指標，不是第二架入境物。",
+     "sources": [
+      {
+       "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/18/lithuania-told-residents-to-go-to-shelters-after-detecting-a-flying-object",
+       "publisher": "Reuters直接引述北約官員與立陶宛危機中心"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ukraine_front",
+   "name": "烏俄戰爭",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、1 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "能源設施遭打擊比例上升",
+     "summary": "烏克蘭總統22日稱，21日晚至22日凌晨的另一輪空襲造成基輔能源設施及其他民用設施受損。日期00:00 UTC只是事件日期容器，不是飛彈命中時刻；這是烏方官方聲明經AP轉述，缺少逐設施獨立影像與損害量化，也不與21日上一輪能源設施通報合併計數。",
+     "sources": [
+      {
+       "url": "https://apnews.com/article/russia-ukraine-war-kyiv-attacks-putin-5eef1c7dc4cc401dd8de85f718574877",
+       "publisher": "AP轉述烏克蘭總統對新一輪攻擊的說法"
+      }
+     ]
+    },
+    {
+     "name": "新制裁或航空公司停飛（高於 30 日常態）",
+     "summary": "10/23 2 家媒體報導航空公司停飛或領空關閉：All Four Moscow Airports Halt Flights Amid Reports of Drones Approaching the Capital（近 3 天 3 篇，高於過去 30 天常態（P90 2））",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWTJaSGpJeHZIR1B2aVpyclpBVW04TnN3bFBpUVRsSWdlLUlSQUdyVWVjd1FpbER2YXlKMmV2VkhMMmZyeGlNQ3VoY3J1Z2lWa2oyY0txR0V1Y1ZrcXE1cks0cVZBaG5pcWdoSlVxMnl0Y0NiQmE0X3BXa0RVZXdXYlFNZ1ZRYmhwSkU4TlpNaTIxSnZkWVFfZmc4UzZGb1d3Tmg3YmNPZnJiaTliWGE1OThXMUtRM2lFcFo5V0xIUQ?oc=5",
+       "publisher": "UNITED24 Media"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90dzFvZHBQa184Wk96T0RfMi0yVExpVGhzNmFReGEtb3UzdXh5Q0NTRXNHMjBMVU5hUlhNU0pJZV9TRFVwaEZYal9CZw?oc=5",
+       "publisher": "Kyiv Post"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "korea_peninsula",
+   "name": "朝鮮半島",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "48 小時內曾達較高等級，暫不降級",
+   "triggered": []
+  },
+  {
+   "id": "south_china_sea",
+   "name": "南海",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、0 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "中菲海上衝突（水砲、衝撞、雷射，2 家以上媒體）",
+     "summary": "10/24 2 家媒體報導中菲海上衝突（水砲、衝撞、雷射）：2 Philippine aircraft collide midair during training: 4 pilots killed; 5th major midair co",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdFRQZHNORXlDNEpFamNXRTVkSFlOdmQzWlNjNVdzemZTYmlTSU9HWHRyWVBlZjN0QUVJUjBQd0JzdGtWUUhSN1dDNkRrUk14MTJPQXlLRkVQNlNraC13bTJTTWt4TFNGdDM2RGNQWGRhbnBYejRReFdXWVJONktVNHNFZmlJNW1iV29JSUVBSmNCSHBhLWtLVVVReGJwZDFkal9lU1dmN18wY3hEOXQxYlloX1ExRGFzVHdtVlNVNktRQ2JzY2fSAcsBQVVfeXFMTzdvVUxSV3RoRzVBazc5Y1g5OF90bEF2SE9zSjR5c25DaEFZSHJBLWtTbEpuMXF6ZVg0X2pFNEJvb1dQcDJsUFFCeTBRVGJJT3dRSGxfNkM4X0FuQmNzTGFoTzhqV19DMnhtQjNvZ0FFVmlHWmdqeGZTd0RpaElXT0lWQzhfY0N1cXBTU2R2R2FITE5vSU8yTURIUmFCQ0JSd0kwWndmMWVrQ2xQMmdVX1FibWgxRnN3YlMzd3FzaFRucHRvd3pOMm1LWlU?oc=5",
+       "publisher": "Bhaskar English"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDhoaFA4WWZYcTBad0t3TkJlSGczVC02RFFxTWVXajl4a0tTS1VlNnI4TFVwMlRkcTIzdVh1ZHpiSkUtaE9helQxMnBBNmhUODJWcWJVTmFZVTRjcS1QN21XS3hRQlBJeEJsRE5Qc2N0ekV6SGwySDAwdmxlSGRENlM3QVVKYXRzSUZIYmlXd2R1cUN4Q0JsZUVCcFdXaUROZkpfOFhkVGY3bmtYZzBuUkZsLXpFZmdoUllGODEwd9IBvwFBVV95cUxQaG1WZkU1R2Y5dHFiX0tZM1pZRExBTTZ2OFhsTmZ2bGNaWk9yWHNLZXZDM205SlJ1QW5hWVVLQWZNTkpBNGs1dzRCNnFRLS1HaGYzQUt2NVdJdjdLWDBoOHZ2Qi1uTkk1d09BVjkzbWczc3JVcW5TNGo4djAyMnMtS0pWMDdXbkFhTGhPZ0FvYlZYczJoaGRCNm1hTElCc3ZWRnN5VlZTRzA1VDBUelk1a2U0LUZvY1JYZ3JwYzg0cw?oc=5",
+       "publisher": "South China Morning Post"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "middle_east",
+   "name": "以巴、黎巴嫩與紅海",
+   "level": 3,
+   "levelName": "高度警戒",
+   "reason": "2 項獨立主要指標觸發，且有官方或獨立來源",
+   "triggered": [
+    {
+     "name": "胡塞攻擊紅海／亞丁灣船隻（2 家以上媒體）",
+     "summary": "10/23 3 家媒體報導胡塞攻擊紅海／亞丁灣船隻：Oil Prices Jump After Houthi Strikes and Iranian Shipping Attacks",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWW1DNFFSdW93ckIyNGNFNkJ4ekpscEZiMGtUQjJVSm9rZFdrVGg4VkozMmNHQVd4ZzFvd1hvZDVqV2dVOVJtbFhtUkFoX3d6b0NQYTQ0d3VzdER0dUVvY3R5OEUwS1FoZkNYdE1UNnRMY1dha1AxcWRPMDRmanh1TDZ4NmNXVGQ3TF92M2NYZk9ZcE5hdjlzcWRjMllaTGRBTHk2OVA3RQ?oc=5",
+       "publisher": "The Maritime Executive"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVlZWWNOaUp5QUJIaEQ2MDBMMk1XTC04dVAzNlJtWm5GNllER0VkdmN1QlBiZkpPRERzc212REFEMEp6QUdPMFhmSk13N255N3Zybmk5eTJsTHd5VHJzcVVGYTJsOWtScWl4VGs1ZkNjQWtFbTRZSktMdG1WcEpGSE14WllfbUQxMXpZS1JlUDVSVW1uMURfNQ?oc=5",
+       "publisher": "EnergyNow"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPejRYaTE4RURGLU1JYjdaUUtwemZTajktQkNkZU5MU2FQbkdZb0ZxWDFIXzFEZDhVTk1GNjZwUU5vU1VXa2dBMFhDc1RhclJqaHBNVW5BM2pqcDdWUVM2cXVuc1g1YXMxSnM0N2djM01UbWRnV25Oek44SlJ4SkVia1RUUUJVajJaZDB1VUJUczVxWXIzaVRncEJIaXZwelp0WkdKSHU2d1JaSWhXMlVPQmZUUkl5OFlVZHNOQXRKaTJVYzQ?oc=5",
+       "publisher": "TipRanks"
+      }
+     ]
+    },
+    {
+     "name": "撤僑、使館人員撤離或旅遊警示升級（美英日台官方公告或 2 家以上媒體）",
+     "summary": "中華民國外交部領事事務局（旅遊警示）：沙烏地阿拉伯 公告含撤離／儘速離境字樣；第四級：紅色儘速離境 - 沙烏地阿拉伯 - 沙國與葉門邊界地區納季蘭 - Saudi Arabia - Border regions with Yemen (Najran)",
+     "sources": [
+      {
+       "url": "https://www.boca.gov.tw/sp-trwa-content-3139-4b5ba-1.html",
+       "publisher": "中華民國外交部領事事務局（旅遊警示）"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "reports": [
+  {
+   "id": "ukraine-chernihiv-daily-strikes-20261024",
+   "title": "烏克蘭23至24日遭襲4死78傷：車尼希夫物流站白天遇襲25傷，基輔奧博隆住宅中無人機",
+   "theater": "ukraine_front",
+   "asOf": "2026-10-24T09:43:00.000Z"
+  },
+  {
+   "id": "uae-umm-al-quwain-oil-spill-20261023",
+   "title": "阿聯證實油輪漏油污染烏姆蓋萬海岸：全線海灘暫封，國際海事機構指向10月遇襲的Gem No.2",
+   "theater": "iran_gulf",
+   "asOf": "2026-10-23T16:29:47.000Z"
+  },
+  {
+   "id": "taiwan-jcg-typhoon-ccg-shadow-20261023",
+   "title": "8艘日本海保船避颱至澎湖七美西南海域，海巡署稱遭5艘中國海警船尾隨",
+   "theater": "taiwan_strait",
+   "asOf": "2026-10-23T16:00:00.000Z"
+  },
+  {
+   "id": "hormuz-limah-tanker-ukmto181-20261023",
+   "title": "UKMTO遲報第181號：荷莫茲海峽阿曼利馬外海油輪22日遭不明彈體擊中，仍續航",
+   "theater": "middle_east",
+   "asOf": "2026-10-23T14:58:00.000Z"
+  },
+  {
+   "id": "khoryv-black-sea-capsize-20261023",
+   "title": "黑海商船Khoryv在羅馬尼亞外海翻覆：1死3失蹤，官方最新航警稱船仍漂浮",
+   "theater": "ukraine_front",
+   "asOf": "2026-10-23T09:49:52.000Z"
+  },
+  {
+   "id": "oleshky-humanitarian-ceasefire-date-dispute-20261023",
+   "title": "俄烏同意奧萊什基局部人道停火；白宮與雙方官員所述開始日期相差兩天",
+   "theater": "ukraine_front",
+   "asOf": "2026-10-23T13:36:42.000Z"
+  },
+  {
+   "id": "ukraine-starshield-status-dispute-20261023",
+   "title": "烏克蘭軍用衛星通訊是否恢復仍有分歧：美方稱解除限制，烏方23日稱未見全面恢復",
+   "theater": "ukraine_front",
+   "asOf": "2026-10-23T00:00:00.000Z"
+  }
+ ]
+}
