@@ -1,0 +1,286 @@
+{
+ "generatedAt": "2026-10-31T18:45:07.033Z",
+ "ruleVersion": "iw-v4-trial",
+ "theaters": [
+  {
+   "id": "taiwan_strait",
+   "name": "台海",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "48 小時內曾達較高等級，暫不降級",
+   "triggered": [
+    {
+     "name": "台股、台積電或新台幣單日異常下跌，或外資單日淨賣超異常（證交所）",
+     "summary": "2026-10-30 外資及陸資淨買賣超 −1124.7 億（前 60 個交易日平均 −83.5 億，z＝-1.62），單日淨賣超異常；市場因素多元，不構成投資建議。",
+     "sources": [
+      {
+       "url": "https://www.twse.com.tw/zh/trading/foreign/bfi82u.html",
+       "publisher": "臺灣證券交易所（三大法人買賣金額統計）"
+      }
+     ]
+    },
+    {
+     "name": "中國海警進入金門、馬祖限制水域或登檢台灣船隻（2 家以上媒體）",
+     "summary": "10/31 12 家媒體報導中國海警進入金門、馬祖限制水域或登檢台灣船隻：中國海警4艘船一天兩度進入金門限制水域 海巡出艇應處",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5ZGNIY3pLSUoxdFpvVi1lZ2pMSlF3ZHhvMXA4bHAzLU9NRVgtVkhrdWt1UExfV09NS2w3RUxrY2JNeWVnekxDYkFFVjB2X1ZWOXh4clZ5YmtZNVNIRURvNDBHa2hhT0hmYjZ0M2V3R09MbGZVTlE?oc=5",
+       "publisher": "金門GO資訊網"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUHY0SUNkN0k1MW5ac3dMSE9Wa1pCSm9aSjhPY1ItMXZDRTVIQ0x6ZW1ibE8tOHNaM0MxRFZ2N3RoTGpqemxoTVRKLXBnWXcyOFJyZDNNY3dnOS1tajBhNFFsTTdWd3p6WWdrN2JBY0pIUFRTWDhGdEN6Ml81YjQ5Y2s0VHcxNWNleUE4?oc=5",
+       "publisher": "on.cc東網"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQd0h5dEg4Z0tyYW01M3RsVDNXd2xlNTFCVXF5M3lwRGh4VlBCUHJvX3VhRHNwUkdUQWIzaldsVDZDdFhlSkE2YWdBdkM1c29zV0YyMVFMbWRKRkxXWDZkNGJfbkJDRmV5X3A3cEF1b0Z0NXFmb090eEdYeGJFN3hLS3RPcS1uNGxoMm1pb0lHZ19lNTFGTl9MNG5qcGFWNFFQWWRXSjByVDFNOXY2VGxGdFgzWXpJZkoteWllanhmMkNyZXk0YWNnUlRTWm5tb0ZOSno5Z3FqdXBJRkhYSWtzNml1MU9rLXlUWHQzY2VwRVcyV3duMHhhYjZnQlFCS3BEMlItR3Q5eHo0dHVnSVE?oc=5",
+       "publisher": "巴士的報"
+      }
+     ]
+    },
+    {
+     "name": "新制裁、出口管制或航空公司停飛（高於 30 日常態）",
+     "summary": "10/30 4 家媒體報導航空公司停飛或領空關閉：Pakistan closes airspace to Taiwanese airlines（近 3 天 6 篇，高於過去 30 天常態（P90 2））",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOblhiaTBSXzBTNFhjekhlR05wNXlTOE5fbnlLQ0d5d2otcVlVUEtkXzN6Tk1YM3Z2Tk44QUhNakU1Qkx3LXNtR2t1dkZXQ2dVTzF3d2w4VGkxNE15ZG5YMC1yU2Z0eWxhQlpYY09WT3drT3FGajA0V2I5ZzVPbE1uTUp5di1Xamk3M0ZFQ1IxMA?oc=5",
+       "publisher": "The Bangladesh Monitor"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrdFdDMWV1bHlLbVNlMmZVUmJscGo1cWdKUU1fU25xejllYndyX1VFTE1lR2I0aU5PeFlvRzB6TnZaMXkyVHVLX1JWbS13bnl1Q2JfNmdjS1hEaW9OOHR2RdIBZkFVX3lxTE04V3FRYjNwbnpMTzRBVVlCUmhpMjlXQjcwUVlmb0V6SUhVRno0MjN2NWpZZ1NCVW9Ia3pWOFdVd1ltYVZlRjZyWEJoYTQ0V2VHcTYzem9GaFFrN1lwSUpFN3FKVGx6QQ?oc=5",
+       "publisher": "自由時報"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3dkZhRzNtc05DNTJXR1lDVzJENVlZR3VuWVp3M0RwelVid1FOOTJIZE9iMC1xcGVFVFRxVWp6MGh0ajlQN00xb1lPenfSAUxBVV95cUxQN3ZGYUczbXNOQzUyV0dZQ1cyRDVZWUd1blladzNEcHpVYndRTjkySGRPYjAtcXBlRVRUcVVqejBodGo5UDdNMW9ZT3p3?oc=5",
+       "publisher": "三立新聞網SETN.com"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iran_gulf",
+   "name": "美伊戰爭與荷莫茲海峽",
+   "level": 1,
+   "levelName": "無升級跡象（戰事持續中）",
+   "reason": "沒有指標超過門檻",
+   "triggered": []
+  },
+  {
+   "id": "europe_security",
+   "name": "歐洲與北約東翼",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、0 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "戰機緊急升空、機場關閉或交戰規則變更",
+     "summary": "10/31 4 家媒體報導戰機升空或機場關閉：MFA confirms work under way to acquire two MiG-29 fighter jets from Poland",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Yb2JGNjhrdWdXaHFMMnVBTXZDZEp4N2hpaEpMeUw5WkNUWUVic1RSdzN4a1R5UUFjVnUyLVBhZVhZYWtEN0c0QVdUMElHdmlKSHdVNFI3LWJkM1o5VGdwT3hjYWZQdjDSAWdBVV95cUxPWG9iRjY4a3VnV2hxTDJ1QU12Q2RKeDdoaWhKTHlMOVpDVFlFYnNUUnczeGtUeVFBY1Z1Mi1QYWVYWWFrRDdHNEFXVDBJR3ZpSkh3VTRSNy1iZDNaOVRncE94Y2FmUHYw?oc=5",
+       "publisher": "Interfax-Ukraine"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFVmblp6TkhGT3E3UzFXV20xcUZUeHRMQnlIMU5JXzdvV29pRm9FUmc2bmZ5cnpMN2ZvellSUC1oOHRaVXNzdFBVVkRrdl8yLWEyZnNoMmpxQkd6Szh6a2taRFdmOUxpT3djaGtLYlYwVGFYbWF6ejhOeXBZT1ZMS3dOaWVDUEpscUpYc2ZfN2dRcm5MX01RN0tpaWpYTzBudFhv?oc=5",
+       "publisher": "Цензор.НЕТ"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhZZXhPdUlfWnRFY2VkR1d5ZnJXZTJzYnpDdS1zXzZQUHRWRGRWODRCaE9mQjFJTHo5RUQweUloTHdYS1ZxanVaa2RnNktwVGVmRWZVT0FHUV9ETEJ6dWZnQ1hIZTY4a1ByTmlaTGxJc0VZaktCMFFaWlVVYi02d1JLbVAyLXctcXRqS2tZRVlxSmFSZldKNGdRb2w5SndPUVd3ZEFHZFNPZmp1NVV3MDd1LVdqVTdnM3pMcl93?oc=5",
+       "publisher": "BGNES"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ukraine_front",
+   "name": "烏俄戰爭",
+   "level": 1,
+   "levelName": "無升級跡象（戰事持續中）",
+   "reason": "沒有指標超過門檻；另有 1 項反應性背景訊號（不計入）",
+   "triggered": [
+    {
+     "name": "外交關係變化或安理會緊急會議",
+     "summary": "10/31 6 家媒體報導外交關係變化：Video: Ukraine Calls for an Emergency Meeting of the UN Security Council Over Russian Stri",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2hRZWM0MUtVNEpSMjhNbXN0UFhUZFlEQ2x4MEZ5S3F3RWJ0bHVidTRMWXpQWGd3WkpBVzFWNzRyOTAwcVNXbjhpRVVfTTZWNHVUeFduSGN4TGxJYmFMMmdWODNlVnk3eDVxM3hRQldJNzFOSHM1S29EZXdpcjJnSWM1Ul9uWDZYb245RjlrY1FtTkpwajB6ZE1oT05BdHJUcWZVMDVOUGQzX0RYbTZwT0ZKV2wyWWlYd01rR21xbw?oc=5",
+       "publisher": "UA.NEWS"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNkxMV0w2ck5CbWV6UDdtWEQtVTEwWGIxV3RMY01XZTJZT0dhak9xZjNfMDU3WWgtVXpWV0s4aDc5c2lUTEFZMmxCSXNHU0UyclRfemUtdlpvazVmMk5SWEpsdHJxTUg0ZlUxWjFZSTQyejFKYUVMNWF6bDBoQ25nQWRYdFRWdTNxdXZMQXBfZHJBUzhSVGQxVWlUcDA1dWthQ0N6bGJhUVBvN0tfV0FJTi1LZTFRRktGNHB1NkE3bE03WlVGUGo0U0NfempNdFVsVFYzYzF4a0FOUnZNVDBpQdIB5gFBVV95cUxOeU1lRzN3TVNudnp1ek9VQmpDbGJfLXBCRTZwRER0dlRiMUp5NUVlZUZIb1FubVl5TjlfbnMtekl4TG4wTmdhUlphdXdVWHpLOWxEOWRZYm5KVVhiSjlrNVdYaW10WnZqckxrWFlnWGpLVnpEZmJoeHA2ZnM1RVBrSmNELVpFcl9KWDAtUzNVZ3RnM2hiT1BoM0dIQnFTdDBLWFlTcWdVWWFxaXBVREdZMEVBbmNBR1ZPRC1QSVFhdGR4UGNOY1JFTVB4aUtTR042QVQtbGFFQ0VyOE1ZYzNMX2o5aHVlUQ?oc=5",
+       "publisher": "Бабель"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQekpaUktmNW1OOTFLOGlXN2NQZk43d0kxTmRiMWYyenpjcUpGZGpOOHJoTGxoOUNUZUdMZ1owM091RlgweVlhWXRqdWZnNnBLQmhVWVN0ZmxUSVN3eDVrazZPUi1STl9oaXQ4ZEZoQkxBemhUa2FhWV9udmlwVHRzRnRWTUdrRTh1aEtoaThiaHN4bXlXMFpPSk0zS3doWFpTOV9zczBJXzZsN19Yd0JUd3daX3gzMl9TczJ6dDRhbDBfZ0xqbEZGdjhTbng0cm1selpWbU5lVFI4Q2c?oc=5",
+       "publisher": "The Kyiv Independent"
+      }
+     ]
+    },
+    {
+     "name": "安理會、北約峰會等國際組織行動（2 家以上媒體）",
+     "summary": "10/31 11 家媒體報導聯合國、IAEA 或北約等國際組織行動：Ukraine calls for urgent UN Security Council meeting after Russian strikes kill 20 in thre",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM21Jemt4a002UGpWaldsV3FHTnhSMHdGdG52WWZkQXEzcEdXWEdRai1RM0VCMm9ERDZZSmU3N2h4NDZydVZFcmJYODE4TzA4UDZJdl8zcmppTnJ5VmptaVdWUkpnYjhOME5qMXRMNmF2OW1WaEgxa1FDWmdsUGZ3dV9yS3hfcUxLdzJmUkV0NFBMZkw2cEdpS3diV0xya2poaEtXb09WY3o0QnJVdnQwNHF0STQ0RzQ0bHhzeE5zWUxvUjY1VTJtaXFOONIB0AFBVV95cUxQLVl5YkJTZ2RrcXVyZk9IOFJGdmgzNHJ4YmdwcjBYX3Z4NkJDNGxKQTZTcDZwNW9LTEZCZkxIcVZDTFRya2c0MU5DWlRRajdfR3hoVmNvYm9WLXVGY0pxNGVFZExqS0lEVkxQaGJLaUdZcTlMelJfWldxdWtzTTVSal9UVE5ZSkFjR3VHNjRUaXZkdHluWjNYcFFIRnFLbmRzVzVUNlF6dDdrd21VdjlwZWNwbGdweDE5Y191RVZkZ2VoYUxHV2hpbEZoTkF2YkJ3?oc=5",
+       "publisher": "Головне в Україні"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHY3d0F4YldkakdBcFVQRHJhX0lOTUxrZ2xTeER3TmNWZU5MRG5DNUtLb25ZWmJZQWJ0ekY4NjQ1eWFGZzE3ckdkY3BvczU4VUtudjEyOGsxSnNTSXNVYUZzTklMbUVfV0xtZGkyT2V1WVJ1SWRpMEF5RTFOZ2YzT1pnSUFfM3ZsQjI1M3hkdVNJWFJ4d0YwQ3B4bGR2b1BHVGRWbkhaX0pudWZWUVY2OG9uSk9WNEVMLUpGbFA4TzUyeDA?oc=5",
+       "publisher": "UNITED24 Media"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUm5zVXBMZTEtQnVkYW9MY1FJYXo0S0x2V1llamdsaEgxZmFLMlBpVEE5b3BZUGM1akRURXg2dWJJdUpOeHJlc3FvYW5QUEc0czJZdTI1SUNKYm5GS2FGNGxqcHFwQzdmQ3drOFBwa19JaHFvZEFRMGwzdTQ3T3gyNzJYdmctUDQ1Y2xCZmh4NC1oQUhqVXc?oc=5",
+       "publisher": "Reuters"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "korea_peninsula",
+   "name": "朝鮮半島",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、1 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "北韓彈道飛彈發射（海上保安廳航行警報，或 2 家以上媒體）",
+     "summary": "10/30 52 家媒體報導北韓飛彈發射：南韓才提議進行軍事會談！北韓一口氣發射10多枚彈道飛彈　今年第17次",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwa0d4VWx6VVA5RHRmSTFyMGp1NmN5cWVZR3l5TzBBVE9NSFRwelQydFNaVm9Wc0xTUFlzQ1Uwc1VTRDVFRzBpVTZIbUUtNkg2LVZJOTRMb9IBXEFVX3lxTE8xNzBxQ0VQYkRJTm5jbzItV0FPNGE2cnRFZUJjdmRZQUhSWHVmdUdlMmJZU1RMNk1JZHduOTFWNEV1Sy0wMmVhaFRnOGRDZk9McklfOFRWUWFHT0th?oc=5",
+       "publisher": "鏡新聞"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYmMzUEk4RmMtVWpOM1JRU05EWmd3VE1MM1VPQ2dVQkR3OUVrTnRqZGo3N3lENWhNYmNyOFJ2d2ZOV3NudmhGZldLLV9DVDdRYnpUUG1ucFBhSndvVDdjdjgzdTh1dElLTVc2MEQ4WUpnVGh0U2xlbGd4cUFvc0NSVjlZN1FMNlg0XzQ4TENOMnZlci1fR0NWOGU1WUNpaWdEQmZ5aGpROEdndmtWLXMzUWUtQU05UXNlaFJaMUttMFk4Wkk?oc=5",
+       "publisher": "The Washington Post"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRHZ1d3dibHFDWEFoa1g1YUpOWHpyLXRDVmJTdEUzV3JJa1FCSWI5Mkp3Mk0wTlRuYXhGRkJjM3NRd2JLaEVZa3JPUVMxTmtCQy11dUE5SVQyZ2tRZ3dTYTJYQnFkT2dqc1h3ODlMSnlmM2tyVUt6OUZzejN4eWJJUkZpZEFydWRtWXZ0Y2NzMzlQZw?oc=5",
+       "publisher": "TDM"
+      }
+     ]
+    },
+    {
+     "name": "美韓（日）大規模聯合演習",
+     "summary": "10/30 7 家媒體報導美韓（日）大規模聯合演習：North Korea slams South Korea-U.S. ‘Freedom Flag’ drills but does not resume loudspeaker b",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Pd0hzdHdZNnplYTJuZHpYUFp2dURrVTdTQklFOUJMd0M2bXBDQlI2V0VrQVlzS1A5REVadzlybE5lRmQ4MVp0VFJpZVNYTDdCTEt1V2g0elc?oc=5",
+       "publisher": "파이낸셜뉴스"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1eGsybWRITjZiVUdnU1pWZHc3OFpjaTBPaU1ac1ozSHlhOE9YNkhpcFd0RlR6VlJfQXBXd1dEY05aeVBKb29NMHM1TXlfMHRrYjVmQ3YwNDlXbnZxTUpYeDJlRnU?oc=5",
+       "publisher": "아시아경제"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95OUZnOUM5TjdnM0NDZmpZeWxoMDlpZDNFYjROWWw4TmVuT1h0d0RKV0dUWkZUUVhzS3pCd3E1ZEtFYWdHaWtOX3RYaGttYjMycGNyYWRFdklHUQ?oc=5",
+       "publisher": "Yonhap News Agency"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "south_china_sea",
+   "name": "南海",
+   "level": 1,
+   "levelName": "常態",
+   "reason": "沒有指標超過門檻",
+   "triggered": [
+    {
+     "name": "南部戰區演習或美菲聯合巡航",
+     "summary": "10/30 6 家媒體報導南部戰區演習或美菲聯合巡航：解放軍黃岩島海空戰備警巡 反制菲律賓侵權挑釁",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT0hQdkZ5VFd3eGRtVjdtTElMUTNhQ0Q4RHdTZXNoNHEwakVpa3NET2lnMmlqc1RkVWFGR2NNNVZMM1Q4OUFqVDlwTGc0ODZHN0pIek1LSE0tVXZMNm1xZUk3NW5wTVY4Tlkycm53d1F0SE1RYXg2UEM1V29BaHo4RDlnUXJCNTdUSHJZ?oc=5",
+       "publisher": "on.cc東網"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UYXlGSjFad1BZeHoySC1sNFZTTVd1UldWREFZbnB0T25mUlg0QXJLM1dEeEp0MXl0d3ptSS1RdERDakZfZ2dPWFBEaXpfM0s1Z3d2UE10d0pYSTBsam0wZ2J1YlFkRmdFYS1rbjJDd2p6dGpBZmc?oc=5",
+       "publisher": "Now 新聞"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UQjZkYm9rZXlocW1raWd6QmdzMnN6Wm9LOWEyME5fcTd1cFJTZFdDNTBjaU5kQUxhcUVJTXNKT04wRXRoRHR6NmVKOWE4YmdtajRPYnpyTkRpelptZ05LUjBtRlFHaEY0ZnlMVWVHYw?oc=5",
+       "publisher": "香港電台新聞網"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "middle_east",
+   "name": "以巴、黎巴嫩與紅海",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、0 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "胡塞攻擊紅海／亞丁灣船隻（2 家以上媒體）",
+     "summary": "10/31 2 家媒體報導胡塞攻擊紅海／亞丁灣船隻：US-Israel-Iran War Latest Live News: Saudi Coalition Shoots Down Drone Near Medina as Hout",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNN1JYTFFGb3lXcDMwNC10eUZ0bGYtNUFpLS1fUi11M2NWdU1rcnVHdUNETTFLVnJabWg5cldRNnJseVplNkw5eEdtdTVvM011TUFrWHY2c0kxNVN2OHlad3hfejh2TnYxdkpUWEh2MFZtZGIxLWJ6Uy0tb1Q0Skd6N0JiUDhBWHBVT1ZNYWtveGJQSVotOWU4Wmw5Q1dfajNOZk0tVkNPSGVXOERVd3MzVjFXNFJGazhUemtCWVVMekhkNWYzZjBnXzREbjhNUjNyVk1TWHROVEVsbkZaVVdwWlh6ZHlmNVZWN1JNbFBDYUhYa1E1UzByRnVYbm9KNG93a3F0RnRQbXNqRVNybHVUQUdGR1E3VU1BNnQyVkRiTmNrNDNPc0VfY0RxMEEyS0RaNFBsZ2llQXUxWmpYVER3c1pR0gHHAkFVX3lxTE1vYkFUSndyUHNwZWlqalZ0ZldvQmtIVV9CVGpnS2VEV2FDMkt4QjE3SEVZVFVnTjNPRTJ5V1dXbndEZnFaMkNRMlpOMEF5akJ4TXJVdWNRN0ItZVJxZTFSNFNwLXRRWEVod3I5NW9MNmx4VnNYTVlLejJ2N2JvcHZOQlplX1AtSHBaNkwtN1E4UkFYX2xEZnVtdUJwVDVsN0JuZzZnV1JVdUl1eENTYXNYdTJXWEk0NlFKSHVGWHRIcmlXbF9odEpiODdmSG8xbXY3bTQ1QVFyUUQ3eGVsaUd4YjdVYU5JQ0xNNmRYVnhkMW5TUlBlakpySkV4RmlFZUlpTTBnY0NCOGF2RXRCVUdWcjJ1anpMbkk3a0xYd0Y0NkY4M3JoaDJkZUdfMUEwYVlqOGMzcHppTTVqUU84RTM3dWZCeFUxMA?oc=5",
+       "publisher": "The Sunday Guardian"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVkRmX20wdm8zRGNiQ0R3OFZVT3JGWlQzbVYyVjdkYmxxZ2tXTXZtWHBHZEswejdkRTk1V2lZc3dGRVZmZU8xYXpPNVhDZC1Ra3d6RVg4WUM1MXk3VHhEYnYycWtUb0FjQWg4SmloSnlLM1JkY1pYVUdtTGFHQ0tRV0JTM3ZlQ1ZRdEg0MTh1SV9aSHJLYzhjQnBB?oc=5",
+       "publisher": "EnergyNow.com"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "reports": [
+  {
+   "id": "oleshky-evacuees-gomel-belarus-20261031",
+   "title": "奧萊什基撤離者4架班機31日全數降落白俄羅斯戈梅利：烏方稱數小時內越境回國，俄方稱人道任務結束",
+   "theater": "ukraine_front",
+   "asOf": "2026-10-31T10:28:00.000Z"
+  },
+  {
+   "id": "nk-sniper-mrl-drone-demo-kcna-20261030",
+   "title": "北韓稱29日齊射是無人機與「狙擊手」600毫米火箭砲演示、首度公開射擊：南韓研判為KN-25，韓美日電話磋商",
+   "theater": "korea_peninsula",
+   "asOf": "2026-10-30T08:27:00.000Z"
+  },
+  {
+   "id": "hormuz-riti-musandam-lavan-ukmto188-20261030",
+   "title": "阿曼撤離穆桑代姆外起火油輪RITI的25名船員；UKMTO第188號稱拉萬島以南一船中彈起火",
+   "theater": "iran_gulf",
+   "asOf": "2026-10-31T04:17:00.000Z"
+  },
+  {
+   "id": "ukraine-patriot-pac3-500-sale-20261030",
+   "title": "美國務院核准對烏軍售500枚愛國者PAC-3 MSE、約21億美元：加德挪出資、不用美方資金，澤倫斯基稱交貨恐需數年",
+   "theater": "ukraine_front",
+   "asOf": "2026-10-30T21:24:00.000Z"
+  },
+  {
+   "id": "oleshky-convoys-split-anapa-belarus-20261030",
+   "title": "奧萊什基撤離車隊30日在克里米亞分流：赴烏方者經俄國阿納帕飛白俄羅斯再搭車入境，盧比涅茨稱停火87小時未違反",
+   "theater": "ukraine_front",
+   "asOf": "2026-10-30T19:10:00.000Z"
+  },
+  {
+   "id": "hormuz-louise1-limpet-ukmto187-20261030",
+   "title": "荷莫茲首見吸附式水雷得手：路透引3名保全消息指巴拿馬籍油輪Louise 1遭小艇附掛2枚炸藥，UKMTO稱起火後續航",
+   "theater": "iran_gulf",
+   "asOf": "2026-10-30T22:00:00.000Z"
+  },
+  {
+   "id": "scs-scarborough-plan-ccg-patrol-20261030",
+   "title": "解放軍南部戰區30日在黃岩島「戰備警巡」、海警同日執法巡查：中方影片稱警告菲C-208軍機，菲方尚未回應",
+   "theater": "south_china_sea",
+   "asOf": "2026-10-30T11:02:00.000Z"
+  },
+  {
+   "id": "hormuz-dhow-sank-tanker-projectile-ukmto186-20261029",
+   "title": "荷莫茲更新：UKMTO證實哈薩布以北起火船為單桅帆船已沉沒、船員獲救；29日晚另一艘油輪出港遭不明彈體擊中，伊朗改稱4船觸雷",
+   "theater": "iran_gulf",
+   "asOf": "2026-10-29T21:12:00.000Z"
+  }
+ ]
+}

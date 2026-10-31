@@ -1,0 +1,44 @@
+{
+ "id": "./",
+ "name": "WorldWar 戰況情報站",
+ "short_name": "WorldWar",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#060d18",
+ "theme_color": "#060d18",
+ "lang": "zh-Hant-TW",
+ "description": "台海與各戰區公開來源預警燈號、戰場地圖、民眾準備清單與附近防空避難處所（可離線）",
+ "categories": [
+  "news"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ],
+ "shortcuts": [
+  {
+   "name": "準備清單與避難處所",
+   "short_name": "準備清單",
+   "url": "./prepare.html"
+  },
+  {
+   "name": "戰況時間軸",
+   "short_name": "時間軸",
+   "url": "./timeline.html"
+  },
+  {
+   "name": "圖文簡報",
+   "short_name": "簡報",
+   "url": "./briefing.html"
+  }
+ ]
+}
