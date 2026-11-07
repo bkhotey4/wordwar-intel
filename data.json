@@ -1,0 +1,211 @@
+{
+ "generatedAt": "2026-11-07T12:45:12.446Z",
+ "ruleVersion": "iw-v5-trial",
+ "theaters": [
+  {
+   "id": "taiwan_strait",
+   "name": "台海",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "48 小時內曾達較高等級，暫不降級",
+   "triggered": [
+    {
+     "name": "台股、台積電或新台幣單日異常下跌，或外資單日淨賣超異常（證交所）",
+     "summary": "台股加權指數 -4.5%：單日變動達 3.4 個標準差、單日下跌 4.5%；台積電 -4.7%：單日變動達 4.1 個標準差；美元兌新台幣 +0.9%：單日變動達 3.2 個標準差。市場波動原因很多，需搭配其他指標判讀。",
+     "sources": [
+      {
+       "url": "https://finance.yahoo.com/quote/%5ETWII",
+       "publisher": "Yahoo Finance 報價"
+      },
+      {
+       "url": "https://finance.yahoo.com/quote/2330.TW",
+       "publisher": "Yahoo Finance 報價"
+      },
+      {
+       "url": "https://finance.yahoo.com/quote/TWD%3DX",
+       "publisher": "Yahoo Finance 報價"
+      }
+     ]
+    },
+    {
+     "name": "中國海警進入金門、馬祖限制水域或登檢台灣船隻（2 家以上媒體）",
+     "summary": "11/06 7 家媒體報導中國海警進入金門、馬祖限制水域或登檢台灣船隻：季風強襲仍侵擾金門！中國海警4船闖限制水域　海巡頂風浪驅離",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zS0hLQldkYzYzZWh6S29iVm05Zm15aW51OXNWUTFIYVdlaC1iejZrZXpxT0Q2VDdBdGl4dnE3dHotUXFaWGw1MEpUTTd5QkJiWkw5RnhXNnRrYzNiMXfSAUtBVV95cUxQZTRROFU2VlBhZldramswSERmME5hcW80UHczdXU2NFo3MUNKbldpNXJpcU84R011Y3ZwQ05ibUJjcVh0cXZ2ZHhCcGs?oc=5",
+       "publisher": "ETtoday新聞雲"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzblhCc1RsQnNPcU9Fb01BVDRYY3ZlWk5VMTJjQy1yZXFzUnU3c3RSa0w3U3F6VF9xcF8xQ0kzTHJXTkNyajd6cVVqWDNGNy1uXy1FaWFB0gFWQVVfeXFMUHNuWEJzVGxCc09xT0VvTUFUNFhjdmVaTlUxMmNDLXJlcXNSdTdzdFJrTDdTcXpUX3FwXzFDSTNMcldOQ3JqN3pxVWpYM0Y3LW5fLUVpYUE?oc=5",
+       "publisher": "UDN"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10NTdnZGRkRlVobDQyZy1kOElDRzlXTFNsT0hjbVVuZDBMaEZrR1ZpeXR4RzJVSkVHUjdCNk5TeERMOTUtQ3R5cHcwSWtwaXRQdkUwNWlNcmdyRWRhcF81REF6S1FrTXJsaTZ2VDdR?oc=5",
+       "publisher": "中時新聞網"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iran_gulf",
+   "name": "美伊戰爭與荷莫茲海峽",
+   "level": 1,
+   "levelName": "無升級跡象（戰事持續中）",
+   "reason": "沒有指標超過門檻，但 1/4 項主要指標缺資料（美軍打擊或攔截行動）",
+   "triggered": [
+    {
+     "name": "新制裁或航空公司停飛（高於 30 日常態）",
+     "summary": "11/07 9 家媒體報導新制裁或出口管制：US Treasury to Broaden Scope of Secondary Sanctions on Iran, Source Says（近 3 天 48 篇，高於過去 30 天常態（P90 42））",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnZTTXM1eEI1WWI3c2UwSUo0Y3VzOWFaMG5hWk1CQ2RWc1RSYUdHNkxJeFZMVHQ4VWJic2pHeHJkNWMtcF9BaXVQY2JzYnZpTlZDQ1I0OXRXR19ZU2hNNG9vTnRJc2Vjc2dJSENPYTFwZGE5aURkdWRua2FMWGhIbTFQUnN1eks2LTVhazdUTjcxWEpyMUVuT1JqQUdlMlRFcTh2dg?oc=5",
+       "publisher": "EnergyNow.com"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1hGRU9FczBxWXZoU2lKMzI0SEpNUXVpeXdWdGdOUFdLYW9BVzFjcjFSa3lpWWxmLTVieVJBUTBmcTl2UVZLTjdnRmNUQVAwbU9JNnhScFpiMEp4Y3hDTzRVQTlRN3d2bkFuNXpRTjlxWGQ1c1QxXzRCdjk5bUliWnB3SFRVcGtGZnZfSG53STdCU1VMYnFtdW1LZE80RXNnYkRtcFpKTldoZGUxeTA5WUxhZF_SAboBQVVfeXFMUDJNVWFoZ3RELXZKSDZmQ0d1cUJEdEVtUGtFUlVtSmR1d29iMmlneGE1OFZlR0FJYVFrUVZxbGFvR0xQRk9acUF0T2w4QnNhOFF0OWw0T1FGa2RVZWlFeFdBSF9yTHROUWUxWTZZU25wcnpYNk5XZEU0T0JCSlI1cmlNcGtiZk10TWJIQ2pZSno1RERfenBEeDgxcERUSTNDX01kSUVQdnlUMVZnczV1eHRRNG5qX0pGbjRn?oc=5",
+       "publisher": "Devdiscourse"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdzFpR25CbmRpRnptM2FBTTVySnhOaUNob3oyTXZmcVQtTFY1cUVxRVhXdGNTakxhWlJHaDFVMFFWRzk4SGZaM0F1bnBEa2M0ZXgwLTlOT3owRXdBZmlEM2RSa2dldmh4Y3JROXY5VXFOb0l3RWNNZzJNVkZ5aU8tLWw3RkNfTU1rWnllaDcwN1JLeHJ5cUtqVWpkSTJscU5lcWc0SzJSY193b3A5WkpwWmFXWU5KSURqdW5WUE9TdlFLTVE?oc=5",
+       "publisher": "Middle East Eye"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "europe_security",
+   "name": "歐洲與北約東翼",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、0 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "戰機緊急升空、機場關閉或交戰規則變更",
+     "summary": "11/06 2 家媒體報導戰機升空或機場關閉：Romanian F-16 Jets Scrambled After Target Spotted Near Sulina",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOW1ZX2tNb3BqZWhjc3FlYnJHR2dNM1RnQ1FFTnp2bzg0ODMzYm5uNWJlR0tyR2Y4VWRIaEwxRlQ1WDYxTXZaZTNodG12VjVOd19DOWJYRnlfX3M1Sk9xSFlTQ2RzZ2ZLeDVxZGVGNUtvMm4tUEZYQkNWX0VQcF9RMy1iNVRCN3hnamYxVHBwRlpvSG82Nm9pRWdzYzBFckFBUFIzbFV1Q0tWb3PSAbABQVVfeXFMTWNvemNYd3VnYmRkcFRudk9nWHBSSzRhWU5nbDNkYVpsRVFWeFBCWjBLeTBJd1d3Z0c4bGJnYWlWYldWQTV0SmF1dXRsY3h2ekhoRlNVSE5qcThJc2trWW1CS3o0aGF1RUVwV0tiaFRRYTItZ0lRZTlCSkZMLXpvb1poc0g5d1pzV0Faa0UxNTVCZEp5dVpONjZpWk53UGF3UHp5a3pIbXVUcmlYZFVsaEQ?oc=5",
+       "publisher": "The Romania Journal"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUnd6cnhHbFBwSzg3SzlFOXA4a0hCcF9RMWFXSXo5VjN1U0NKZWtFVUlKTDA4UXgyX1dMODBCbXBiNVhTVF84LXctQWh4UVRhRlJCOVNfd1NSRGRfUGVocXlsZUpUSEk1Z0dTdFplOUkxbHZBeDgyekZTRnZaeW5sMTFnRFRxWTdCZE1yOWZXMjdjYkhiWUhPMzdn?oc=5",
+       "publisher": "Fakti.bg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ukraine_front",
+   "name": "烏俄戰爭",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、1 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "俄軍飛彈與無人機 7 日平均（或單夜飛彈數）超過 60 日 P95",
+     "summary": "2026-11-06 無人機 227、飛彈 0；7 日日均 360（60 日 P95 為 349）｜7 日平均超標。烏方公布數字。",
+     "sources": [
+      {
+       "url": "https://t.me/kpszsu/93571",
+       "publisher": "烏克蘭空軍（交戰方公布）"
+      }
+     ]
+    },
+    {
+     "name": "新制裁或航空公司停飛（高於 30 日常態）",
+     "summary": "11/05 2 家媒體報導航空公司停飛或領空關閉：In October, Ukrainian drones caused the cancellation of over 30,000 flights in Russia.（近 3 天 5 篇，高於過去 30 天常態（P90 3））",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMm5KdVVvWW1oWDFDcFhDQ1RxcVZsTWpJUHl6T3NWT1B2OVp6Q3h4R29WT24xdXpPb3E2NXMxcUJqc3JhaldGckJXNEE5OGVTckpKOFBzOXZqR0dIS2k1dlk2S3I3MVVWS2RSb0JrbXlqSDJNZDdaellHSjNUY1o1emRuSmE4SV9JUC1HdmJSOG0wb1E1VkptcnIzNE5mN3NVZGp3?oc=5",
+       "publisher": "UA.NEWS"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd3I1RWZ6dE5DMzB3ai1iVTZKOFhXS2RWcWxIZGFjdGc4WHhsQl9NejlJY2JDSlkyZmNEMnJaNHRuZVRMMnBuSnZnLUhYYjE1UWtMYXlGMXhfbmhUS0NBYnJSNXM4Y1FaeDhjOF9mUWZXWmszRVlwSVlfX3NSOU1YbnY4VEU5QnhsSkdmbEgzQ1dXTDF2Mzc5N3ZaSFJxZEJXQzBxUDFXYmh4SDR1eXZoTloxMlNDNGFjZ0NaLXFjR1BEWTlBTU1xMWNGYmhyeE0?oc=5",
+       "publisher": "Ukrainian News Agency"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "korea_peninsula",
+   "name": "朝鮮半島",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、0 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "北韓彈道飛彈發射（海上保安廳航行警報，或 2 家以上媒體）",
+     "summary": "11/07 2 家媒體報導北韓飛彈發射：Here’s why Pyongyang is testing an array of missile capabilities",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZEpHdW9EVzJhY1BCUjVidDJzdXN1SWZ5NHI0TFlLeEo1dEwyeW1VVFhycFlVandTbGw5NmpYLTBSRXp0UUlsaXdoVnRXcWhMV2tmOFpHY3JKNWotajVlRkhVbnpYZ2J2Z0pMUldiWEV3ZzVsb19ERW01R1RUQ25sNVpNRS1MZGJwajZMV3B6VnI0dHlvSkVtendn?oc=5",
+       "publisher": "Asia Times"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbHFfV0NYbTd2TGtobktXRk00bENRU2t1RGNqWTJMYWstOWhZamladWFoRG5aZDdHbzlaOHdTM1VlbHFVRzNuRF9hV0dvazVQUDZxNFo5cXVMS3B6bXZqWHllWXl3X3pJU3BKTlotSU9BaExSOUk2ZDJ5Y2RMVS15ZHJGcUw3NWROV0UxVVlTZTVhRTBzVFlHSFhnZDJ1OUJuZGV6aFJpQ1NSemlfMGtLX0ZvLWF2dHlqVzRRLXgwR3ZkcTNiVEdtYzlJQzdvcGFFUWc?oc=5",
+       "publisher": "pathofdemocracy.hk"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "south_china_sea",
+   "name": "南海",
+   "level": 1,
+   "levelName": "常態",
+   "reason": "沒有指標超過門檻",
+   "triggered": []
+  },
+  {
+   "id": "middle_east",
+   "name": "以巴、黎巴嫩與紅海",
+   "level": 3,
+   "levelName": "高度警戒",
+   "reason": "48 小時內曾達較高等級，暫不降級",
+   "triggered": []
+  }
+ ],
+ "reports": [
+  {
+   "id": "ukraine-kyiv-36-ballistic-northern-bridge-npp-substation-20261107",
+   "title": "俄軍11月7日夜襲以彈道飛彈集中打擊基輔：澤倫斯基稱36枚、僅4枚遭攔截，北橋受損、連接兩座核電廠的變電站遭擊中",
+   "theater": "ukraine_front",
+   "asOf": "2026-11-07T00:00:00.000Z"
+  },
+  {
+   "id": "iran-trump-confirms-qeshm-minor-strike-mq9-claim-20261107",
+   "title": "川普證實美軍對格什姆島發動「小規模打擊」、摧毀伊朗防空裝置；伊朗官媒另稱擊落美軍MQ-9，中央司令部懸賞2000萬美元徵核計畫情資",
+   "theater": "iran_gulf",
+   "asOf": "2026-11-07T06:09:00.000Z"
+  },
+  {
+   "id": "ukraine-abu-dhabi-agenda-umerov-20261106",
+   "title": "烏方公布阿布達比會談議程：以現有接觸線結束戰爭、能源與黑海局部停火、籌備三方領袖會面；總統府澄清烏梅羅夫續任團長、布達諾夫隨團",
+   "theater": "ukraine_front",
+   "asOf": "2026-11-06T20:15:00.000Z"
+  },
+  {
+   "id": "ukraine-komyshuvakha-toll-53-20261106",
+   "title": "科米舒瓦哈轟炸死亡上修至53人、札波羅熱州全面入侵以來最致命：搜救進入第五天，澤倫斯基警告恐近百人",
+   "theater": "ukraine_front",
+   "asOf": "2026-11-06T10:52:00.000Z"
+  },
+  {
+   "id": "iran-trump-destroy-rest-irgc-2tankers-20261106",
+   "title": "川普國安會議後稱「也許必須摧毀伊朗其餘部分」、決定「很快會知道」；革命衛隊6日再稱2油輪觸雷起火，川普同日與卡達埃米爾通話",
+   "theater": "iran_gulf",
+   "asOf": "2026-11-06T10:23:00.000Z"
+  },
+  {
+   "id": "iran-army-3-tankers-mines-oct-35-ships-20261105",
+   "title": "伊朗陸軍5日再稱3艘油輪在荷莫茲以東觸雷起火、與革命衛隊合計聲稱5油輪1拖船；路透引UKMTO稱10月35船遇襲創戰時單月新高",
+   "theater": "iran_gulf",
+   "asOf": "2026-11-05T15:14:00.000Z"
+  }
+ ]
+}
