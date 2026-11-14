@@ -1,0 +1,286 @@
+{
+ "generatedAt": "2026-11-14T18:45:05.815Z",
+ "ruleVersion": "iw-v5-trial",
+ "theaters": [
+  {
+   "id": "taiwan_strait",
+   "name": "台海",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、3 項次要指標觸發；另有 1 項反應性背景訊號（不計入）",
+   "triggered": [
+    {
+     "name": "共機架次連日爬升",
+     "summary": "共機架次正在爬升：近 3 天平均 15.7架次，前 7 天平均 6.9架次（近 54 天 P75 14.8、P95 29.3），尚未超過 P95。",
+     "sources": [
+      {
+       "url": "https://www.mnd.gov.tw/news/plaact/88211",
+       "publisher": "中華民國國防部"
+      }
+     ]
+    },
+    {
+     "name": "聯合戰備警巡（國防部原文、中國官方發布或 2 家以上媒體）",
+     "summary": "11/13 3 家媒體報導共軍「聯合戰備警巡」，共機 29 架次（中天新聞網、Yahoo新聞、堅料網）。",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QNGozTHlHa2ZDMmFHeEVQNTAtM2dHcEtxZ0tRbHZYbmhOV1ZuRWpXWTlnc3NpWlZBVWJPWFl1NWlKblE0RzlKV05pWHRib0s5Y2NZ?oc=5",
+       "publisher": "中天新聞網"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOVm5mTzFaNm5ISWkweklwcnZ2TVJtdWU4QkcteVJzVHk5Y2oydHMwZDRtYmtLbTVJbHRkb2dNMjk2M0FDNXgzS20zMUhhamVvVHZ6OWRZU2VDOEo3UVdsemZ5M0QzRDRQN0I1NDA5T0d6dWU4Q2dWd3BGVzdnR3Q1MHdobnM4czV3blJtY0tYS3Vpc3hnYUUtU2RROFFRTUNQX204TEhwNG5xMnJlQkJfZVJjVC1MeG1NZDY4dkhURmRKaTlJR3k2MkhBUVltTV9naTBUSHA4RC1CWUJFWGhVaFQxZVVUc1dTeVpaVzZ5Rm9odzlIRkxReVR6VldwTGNUUEY0YjFWRzk3SkVGVmM3Rm1sQnprLTNwY0tXVUg4bnNzUlduY2J1Uy0tQl9EMUlZWWNOMzJGQTFqbzRmU3hia1pRenh5RGtvVmQ0d0Zn?oc=5",
+       "publisher": "Yahoo新聞"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPZGtyNUh6TlEwTlJaZTU0NkZGUG1GbTBlV2cxdG1lZGZMZ05FWndBTWh2X0Y0ejRiNVZDekFoZ2VBYjFBZGprd2JpMFRoeXFfZ1NaVWN4NW52eDhrejBvb3dhcTRucmU3VlZxYTN0eGpPbUFmTlEzOUhfelpsNl9zbnM2NERkMGsxSE1sV3E5cnFJSVB6T21YdGstYXhMY3plQnRPYTZTUHpZQWEtYlZpcDNOYVhLNmFsUkVvZHhCYjNFS0FGVG5GTXZVRHhJWTNWa21WempiUHZmSHZacE1lZzBPRXlTb3BHWEJjdnpqdnJncXI1YjJIZ3VZRTI3azcxZ192VEVUTGR5cnlGQ2dvSmpvTTlnRG9POXhlMXYzdjZ3WFM4d052ZTNEYzJHODByMFQ5RlZyR3JIcUNCbk9jbXlPaXlBNUJ6al82RVhnSDVLTGtWTnM1M3JqcFlOUnBzbDYtVk10QjNBZGlMUlBBNmRkNkpZaS16TVhXbE1Wb0lSb2hnNHdpRU5jdVNCY21lX3FkMkEta0F2RS12ZGJkeWpoWlBVekQ4TFNCU21XcURvQ09FNV9hcw?oc=5",
+       "publisher": "堅料網"
+      }
+     ]
+    },
+    {
+     "name": "晶片、稀土等半導體供應鏈管制升級（高於 30 日常態）",
+     "summary": "11/14 半導體與關鍵材料管制：US export controls: Bessent criticises Commerce delay on Nvidia chip limits to China（近 3 天 67 則，高於過去 30 天常態 P90 55）",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWU44Mk55UE0wcWowNGxWaE5jSnlBalg5TktFeTZFQ0ZIbmota2pCdWVpOXI4aExsVThGalBWX1RpZWNWYlNVNDlPYmFUT3RrZFpvTHE2UlRrYzVMalo4Vkx6R0MwOW9oVktTeEo5SWpzSFFyN3RicTN5Wm0wM003NDN4Rk9KM25mMWdIeks3YlVGaUpWOVMxSndDTVVmb2hYYXdQekdOQzlJUQ?oc=5",
+       "publisher": "Goodreturns"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05MXB4TXk0UExzeDNTRGNCRjFQRWxLMFF6bTRQYzhpeEowd1VjWXdjSEp6bjF6VTg0LUM1NTA1RnhmaF9UY3ZVRGVkMVcwX3JmVWdGUWF4N3ZlTTVLMFNYREFVc2NuYThRWlJvY2prTjYzRy1sTl9lYzB0T1hidFk?oc=5",
+       "publisher": "Rolling Out"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYmQtODlOVHAxaVpxUk5oanNrLVlMU1o0ajlGWUxBWEt2MHB3ajJxX1Zfb0dCNUdWS3lOSk1oMHpnWkdYdWQyb3g0NjVSN1E0T01pei1LVXBCVmZyZUJSSlpkeUtkMlk4eE9RZ0JoYUE5cWlDcDdoaWJzc0QtNXdibWZaT0pBVWttUi1BTjV5UENsUWk1ZmdlSGRYUzN3WXViZERUNTFlV2VReWd2dGVCTVRfY3ZKcU4tREhfYVF0UDJZc2NYSVJzQUN3ZWcxYV9ZTXdj0gHTAUFVX3lxTE1OZVNlakJ4Rjd0TUIwaWQyaEVlaGNTUC1xNFhNdFhmWTVmenNINXVxOUQ4djlTNFY5eVl2aWpIY25WSURVSS0wMnpHeGRYT0hvdGZlZER5UTRTQVRYMER1elpvM2ZoXzB4N1RaWEtHRUQyT2JzYmt5UXBlX2Z0YUxKSVlYdWhNM2praWZLTzlsN20yZ2xNSUh2ODlTQWl0amFyVjBVMjFQUkxUQ3E0NlZLMU1iVElRU2NkcUxjNElfX3FuNmZsMUp1MFhERkhGVlVwazA?oc=5",
+       "publisher": "South China Morning Post"
+      }
+     ]
+    },
+    {
+     "name": "美國對台軍售或涉台法案通過（2 家以上媒體；中方常隨後軍演）",
+     "summary": "11/14 3 家媒體報導美國對台軍售或涉台法案：川習會前美學者籲先批准小規模對台軍售| 政治",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtRUVXT0FCQXR5NzVUUVRfbTBWQi1jWkM3VmFCRlhJVTdIMDZhYzNxWHR2NmZINlM1VXZKNkJYOENqWGJXNVVyOFd5VDMtcVFWTTFCZ2FNcDdnLXlLelVr?oc=5",
+       "publisher": "中央社 CNA"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nSlZtY3BMMXF3WVpRbDNEcHdyOHhoVnVwblhtWjF1aWVHSW9jeU1KaElRQ3YyaDRmNG5uRHhIcm1LcEJ4aUozemVhS3U5QmdMZXM4TW83bGRsd9IBX0FVX3lxTFA0RzdOTWl5czlSN01NTFFXLVNOSWpPMkoyU2VDNXJSejJXek9UUHJYYVJaX2VLUWtGanNja1B5LUo0ZGFRNjlPMUxCVmFieDhCaEM2bTFqbUNZRm5yT2dN?oc=5",
+       "publisher": "經濟日報"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mR0ZkN25SeFR2MU90ZTJnY2gybkotNm85eC1jVEZvMWQ5U0ZDTlBoYmMwTm9IUXNSZXVjX08xWjA4eTlSaUVkbFg4dTk3WWdKY0hSMnV1OE4?oc=5",
+       "publisher": "Rti 中央廣播電臺"
+      }
+     ]
+    },
+    {
+     "name": "中國對台制裁、關稅、禁令或懲戒名單（2 家以上媒體）",
+     "summary": "11/13 2 家媒體報導中國對台制裁、關稅、禁令或懲戒措施：中國懲戒沈父、批蔡康永沈伯洋：中干預選舉台灣人看得非常清楚| 政治",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBclZIZmpqaWVHSENmUTlKSnNCLWNCZ0pGcUtqa1YzTloxdGJPVGNCa2YtQW9ZN3ZkX01GWVRlVjVWWkdfNFRGcTF6VVNhTjJ2LVpKb3JfSkJzNlU?oc=5",
+       "publisher": "Newtalk新聞"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNcUticlVzSkM4RE05dFJqWS1iQld5YmhtdGdKd0paYjRINmoza0xhNzgxenpOVXBINkJrWkROZjdXVUw5aWd3UUs4eXUtcEcxOFEwWkFFMFJXRjl2TE5wME9JM2tDUzBCVDd5OUZsajRudlBvUzdOVnc0dGxsazVqYlM4ZXFmWTFja1lEd0tqdGVadmJDMVFIYkFxTDhlMDZBWWNGeHFLdUVYVjRMYXctRzZHdWR5aHNIZUxUNE5YYmpfcUlJdVc5M0JoMnRnbDZ3OFhIYzhaMjdnaFRPRnk5Ny1Od1BBajVFR2wzREM0c01OLUN6MkQwRjh5UXp3QjlNMHlLYWRfWEV3U0txUEE5a1I3T3pxUnZrSXBYak5QamZHSWlSUkFFdXRrRzkxczA0cG1NYUFvVHdRbkk4cHZReXliZVlDZDlUMGNkak1IcjFKeUNWSzd4YXJZdk1XeEdtZ2kyZzZkVlVOSFJtbU1scVFoWThYSFJmdlY3bVl3ZXE0SWJrZ3BjNTk4VWVmRE0xdlFELW9kTmFxSnc?oc=5",
+       "publisher": "Yahoo新聞"
+      }
+     ]
+    },
+    {
+     "name": "全球新聞對台海報導量異常升高（GDELT，高於 30 日 P90 且達中位數 2 倍）",
+     "summary": "2026-11-12 全球新聞對「台海」的報導量強度 0.092%（前 30 天 P90 0.082%、中位數 0.040%），關注度異常升高。報導量是反應性訊號，不等於事件已證實。",
+     "sources": [
+      {
+       "url": "https://www.gdeltproject.org/",
+       "publisher": "GDELT Project（全球新聞資料庫）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iran_gulf",
+   "name": "美伊戰爭與荷莫茲海峽",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、3 項次要指標觸發；另有 1 項反應性背景訊號（不計入）",
+   "triggered": [
+    {
+     "name": "美軍打擊或攔截行動",
+     "summary": "美國中央司令部11月13日（僅知日期，時刻未公布）在X發文稱，伊朗革命衛隊向巴林發射兩架單向攻擊無人機，兩架均遭美軍擊落，無人員傷亡或損害，並稱革命衛隊所稱摧毀美軍駐巴林預警雷達為不實。屬美軍攔截行動。",
+     "sources": [
+      {
+       "url": "https://www.rferl.org/a/iran-us-sirik-bahrain-war-nuclear-talks/33897951.html",
+       "publisher": "RFE/RL"
+      },
+      {
+       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-two-iranian-drones-aimed-bahrain-shot-down",
+       "publisher": "Middle East Eye"
+      }
+     ]
+    },
+    {
+     "name": "伊朗對波灣鄰國的報復行動",
+     "summary": "伊朗革命衛隊11月13日聲明（伊方說法）稱空天部隊「數小時前」打擊並摧毀巴林島上美軍預警雷達，指為報復12日錫里克電信塔遇襲，並稱若再犯將不設地理限制回應。巴林與美方未立即證實，雷達受損無獨立證據。路透稱為9月初以來伊朗首度宣稱攻擊波灣國家境內美軍資產。事件時間僅知日期，以00:00 UTC記。",
+     "sources": [
+      {
+       "url": "https://www.iranintl.com/en/202611137770",
+       "publisher": "Iran International（轉述革命衛隊聲明）"
+      },
+      {
+       "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain",
+       "publisher": "Al Jazeera／Reuters（轉述革命衛隊聲明）"
+      }
+     ]
+    },
+    {
+     "name": "美軍海上封鎖持續或擴大",
+     "summary": "美軍中央司令部11月11日（週三）稱持續維持荷莫茲海峽商船通行並執行對伊朗的海上封鎖，夏季以來約17億桶原油在美方保護下通過（歐洲新聞台）；半島電視台與路透13日稿亦稱中央司令部表示仍嚴格執行對伊朗港口封鎖。本筆確認封鎖持續，未見擴大公告。日期精度到日。",
+     "sources": [
+      {
+       "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran",
+       "publisher": "Euronews"
+      },
+      {
+       "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain",
+       "publisher": "Al Jazeera／Reuters"
+      }
+     ]
+    },
+    {
+     "name": "國際原子能總署報告、安理會表決等國際組織行動（2 家以上媒體）",
+     "summary": "11/14 2 家媒體報導聯合國、IAEA 或北約等國際組織行動：Iran's Mission in Vienna Responds to IAEA Report: Aggression Cannot Be Erased by Resolutio",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUUwtY25UVDBaU3M3ODhrTTRZcjE0Q1JralZWenFvblhEUkdxdVdraHBpdnY1c0pSamwyRDJBN1FuUWhRU3JpTXloM3Vrb0k4ZklURGUxb0pnemRiTC1LSFB1NldiUXdXWHFVdlFoaldTck5DYWtCRjgyMm5hUEx3SmVzSVJzWWpjREt0NzlMcW9DeVFESzZEd2JVZDl5d9IBTkFVX3lxTE9hQUphZEdMdDRUaVVBaUNfbjBpSU5oeTQydkw4R0NhVEl5RGVfczJaWVhGTDNORWdOYzl2M3ZXSVFGeXVJOGdCM0h5MU9JZw?oc=5",
+       "publisher": "ISNA News Agency"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWXZ3dDY0dUFPak5SNEpfcGJyQllXUjJHQ0pNbks4THRtbnJsSG9ZOWI1UE1samZtSG9rdF9ENk1fTHZLU0RoSW9LMWQwaDlqaTRpR3owc2E4VUtFZzY2NVAxamFVeExMNTJjd25FaHVCV2tRT1prZGFtWVhXQVVKX09OWmE4VnNIZUFkdmRqYmY3NE16aDB6MUxkTm02dk5SSGtqcA?oc=5",
+       "publisher": "JNS.org"
+      }
+     ]
+    },
+    {
+     "name": "美軍航艦集中中東海域（USNI 週報 2 艘以上）",
+     "summary": "USNI 11/09 週報：中東海域有 2 艘航艦（門檻 2）：George Washington（Arabian Sea）、George H.W. Bush（Arabian Sea）。",
+     "sources": [
+      {
+       "url": "https://news.usni.org/2026/11/09/usni-news-fleet-and-marine-tracker-nov-9-2026",
+       "publisher": "USNI News Fleet Tracker"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "europe_security",
+   "name": "歐洲與北約東翼",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、0 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "戰機緊急升空、機場關閉或交戰規則變更",
+     "summary": "11/14 3 家媒體報導戰機升空或機場關閉：Romania Scrambles Jets After Overnight Snake Island Alerts",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdzlJVll2UnRKM19EaHhQQ1pQeVpjNm1Xd0VUUThIeWxsTXNDdm91cmlRUWU0cUw3NVRweExxM1J2Qkd0NnJtd01nNWstaWZ5VVJPU2FzeFlmTUlaNVFwVW9pMlNfdzB1d0xWa2ZjaGZjTjQ3Q294MGhJdjRYckw3djdJRklWWDJIeGdfVU9PUjNiSUpXdUMw?oc=5",
+       "publisher": "streamlinefeed.co.ke"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlAtOUpidE1qanVTWjVXYkJmOUhUdzdtQVFSc0xZa0JVWG9QckxOeVpqOHBrMTF6T251bkFmTjlZek42YlJESXo2di1RcGRkUzFvMWZiREtTNFZVWUtYbERmTURqSFBBSjdaQV9zWmdQb0pKd2VvcldRSkpBM0l2RTBITTZfQ1po0gGOAUFVX3lxTFA1cVB6c3pyZ0ZjOGFiWG9lcVpqTUNybzhQZld5RWQ5VzZMaFFCejJKakJQam9qOWVlWDltZnpTVzJUejdrREh5Um5TT0NwN1VyYUVQcjRMaDBCUW9JQ1FoMEZCQXl0b3RPT0pzVUhIZnYzb2ZoN0V5TlpKZXV3cUlUY05sTjVPYXUwTVlkdVE?oc=5",
+       "publisher": "Daily Express"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWpIVmVWYW1TRUlXb2FXNGd6Zjl5RkpDZHQyZ0FLSWh4eUdZUFRpS0lNXzEwU1prSTM3TjlPTGV0SlB6aHFWTlJoYTNhbmhkcUFKWnVBU3NNbTZ5V1RjRTlfR09PaDQ0Z2ZzNUFrSWIwNXBaZ210NThmWS1yQzlsZlljcUg2emExTnc?oc=5",
+       "publisher": "AOL.co.uk"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ukraine_front",
+   "name": "烏俄戰爭",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、0 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "能源設施遭打擊比例上升",
+     "summary": "基輔獨立報11月12日引烏克蘭國家警察稱，俄軍11月11日夜至12日以彈道飛彈、鋯石反艦飛彈與123架長程無人機攻擊，8個州受損，主要是能源與交通設施（烏方公布）。事件時間只知日期，observedAt以該日00:00記錄。",
+     "sources": [
+      {
+       "url": "https://kyivindependent.com/russia-attacks-kyiv-with-ballistic-missiles-hours-after-peace-talks-end",
+       "publisher": "Kyiv Independent"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "korea_peninsula",
+   "name": "朝鮮半島",
+   "level": 1,
+   "levelName": "常態",
+   "reason": "沒有指標超過門檻",
+   "triggered": []
+  },
+  {
+   "id": "south_china_sea",
+   "name": "南海",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "48 小時內曾達較高等級，暫不降級",
+   "triggered": []
+  },
+  {
+   "id": "middle_east",
+   "name": "以巴、黎巴嫩與紅海",
+   "level": 1,
+   "levelName": "無升級跡象（戰事持續中）",
+   "reason": "沒有指標超過門檻",
+   "triggered": []
+  }
+ ],
+ "reports": [
+  {
+   "id": "ukraine-samara-lpds-lipetsk2-general-staff-20261114",
+   "title": "烏總參謀部稱13日再打擊薩馬拉烏拉爾原油調度站與利佩茨克-2軍用機場：同一樞紐兩週內第二度遭鎖定，「薩馬拉4死」疑為伏爾加格勒誤植",
+   "theater": "ukraine_front",
+   "asOf": "2026-11-14T10:35:00.000Z"
+  },
+  {
+   "id": "iran-hormuz-three-tankers-mines-ukmto-weekly-20261114",
+   "title": "伊朗海軍與革命衛隊稱14日三艘油輪在荷莫茲觸雷起火：UKMTO週報截至11日一週至少7艘油輪遇襲、過境量較戰前少約65%",
+   "theater": "iran_gulf",
+   "asOf": "2026-11-14T05:29:00.000Z"
+  },
+  {
+   "id": "taiwan-silent-drills-slbm-reuters-20261113",
+   "title": "路透引台灣安全官員：共軍11月初未具名演訓規模大於「正義使命-2025」、含模擬攻擊城市與潛射洲際飛彈；13日仍約70艘在第一島鏈內",
+   "theater": "taiwan_strait",
+   "asOf": "2026-11-13T18:19:00.000Z"
+  },
+  {
+   "id": "europe-gulf-of-finland-naro-fominsk-strike-20261113",
+   "title": "芬蘭國防軍證實偵測到芬蘭灣俄艦遭攻擊：烏克蘭安全局稱以無人機打擊「納羅—福明斯克」號小型飛彈艦，波羅的海首例",
+   "theater": "europe_security",
+   "asOf": "2026-11-13T00:00:00.000Z"
+  },
+  {
+   "id": "ukraine-ru-mod-1198-drones-volgograd-kyiv-hospital-20261113",
+   "title": "俄國防部稱一夜擊落1198架烏軍無人機、莫斯科市長稱467架飛向首都圈：伏爾加格勒工業區4死；俄軍117架無人機襲烏、基輔醫院起火",
+   "theater": "ukraine_front",
+   "asOf": "2026-11-13T11:31:00.000Z"
+  },
+  {
+   "id": "iran-irgc-bahrain-radar-sirik-20261113",
+   "title": "革命衛隊稱摧毀美軍駐巴林預警雷達、指為報復錫里克電信塔遇襲：美巴兩國未證實，川普稱應波灣盟國要求暫緩大規模打擊",
+   "theater": "iran_gulf",
+   "asOf": "2026-11-13T09:39:00.000Z"
+  }
+ ]
+}
