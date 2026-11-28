@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bkhotey4.github.io/wordwar-intel/sitemap.xml

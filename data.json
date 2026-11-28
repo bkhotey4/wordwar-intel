@@ -1,0 +1,293 @@
+{
+ "generatedAt": "2026-11-28T15:46:03.353Z",
+ "ruleVersion": "iw-v5-trial",
+ "theaters": [
+  {
+   "id": "taiwan_strait",
+   "name": "台海",
+   "level": 3,
+   "levelName": "高度警戒",
+   "reason": "2 項獨立主要指標觸發（4 項觸發，屬同一行動合併計為 2 項），且有官方或獨立來源",
+   "triggered": [
+    {
+     "name": "共機架次超過 60 日 P95",
+     "summary": "最新 33架次，60 日 P95 為 30架次。",
+     "sources": [
+      {
+       "url": "https://www.mnd.gov.tw/news/plaact/88365",
+       "publisher": "中華民國國防部"
+      }
+     ]
+    },
+    {
+     "name": "逾越中線／進入空域架次超過 60 日 P95",
+     "summary": "最新 27架次，60 日 P95 為 23架次。",
+     "sources": [
+      {
+       "url": "https://www.mnd.gov.tw/news/plaact/88365",
+       "publisher": "中華民國國防部"
+      }
+     ]
+    },
+    {
+     "name": "聯合戰備警巡（國防部原文、中國官方發布或 2 家以上媒體）",
+     "summary": "11/27 2 家媒體報導共軍「聯合戰備警巡」，共機 30 架次（UDN、Yahoo新聞）。",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBucTBDZFE4NndGRzJpX01rd2dOYUNSdWdETE5qNFRLWHY2MWN5X09VcmQ4d3otNi02Vk5oTFdUcTZQeUFuemY5TUtFNzJDVHc4QkHSAVdBVV95cUxOb3ozME5NVUNZZUNvTUFrNGhrRnpfVUVDZnd6b005RlM5NTVMblVjQVQxRWtscGpqTEduWlFkOTlCcFpNM1lLajBwZUh0UnQ3Wi1yYzZwamc?oc=5",
+       "publisher": "UDN"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tOXJOd3BrMGdjOThiYlVLSnZZTFNaUlBfN3dMVGY4a1BpY2hjcF9RQ3N6M0gtOHFZclplOVRPbFdjeDd2RUdyZVo4S0NqaVlQVVZwaFNVUQ?oc=5",
+       "publisher": "udn"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQT2xFTzlvMVYxSWRlTkpSald5VHRWbTcwTHZ5LTZJMno2aWFQR2Q0N3JHVnFzRzQ1Ti1yVzRKNzhWWDVHdV9hU1VlNGlyTEZGMVNyWnI3TXRkb0Q5d0t0Qks0c3YwSnVuUVB0Z0ZpdE9tbHZmdDJuVHZURHRfbTE1RnhjbUNpSTdpMDdDN0hBU2FPZnMwNkIwM2lOVXBKUkpRVE9RQWVnMFVXLS1ONzFBcWZ4ZW52YlFIUi1RcDRNSzZXVkVtaWZtRnJ4cEFhZmNsYW90TnhxY1V6THRSdXZxTF9kWXBxdFBKT1ZKWEdJaHZIS05oN2EzLTY5aTNRQUphelEwSGkzRFdhRE9jRTVOSFRxNHJkOHpsTlpvYVhmUW0tOXlnUmFUVDNROFFFUnQ1MENQUGx2MEhGeGVyN1E5UGdNSTE1Uml3WC1BQlFMN1EwT1BrNnN6dFVJNUdQVEpOeS1lRl9fUHVENUhyLVE?oc=5",
+       "publisher": "Yahoo新聞"
+      }
+     ]
+    },
+    {
+     "name": "中國民船（滾裝船、渡輪、海上民兵）徵用集結或國防動員（2 家以上媒體）",
+     "summary": "11/28 中國民船徵用、集結或國防動員：台灣選前共機大舉出海 共軍福建演練民船登陸",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1azlFelNWNW5qWjlYTWp4dnNrYURfXzd6M2lWQUxCbzdSVEhxbDZvc0p3WWI2V1NJaDAtRG1tcmg1YnpKWTh3T1NQaC1uY3d6ZnA2TlpUdU44YXF5VG1Yb9IBZkFVX3lxTE02NFhVNFZhd0M1VnRTUEJ0VmJyX2t0ZUQ4RzZtdWt3X19kQkdqS0tCQjR6ODA2aEluVHJFYWtXdVR1WEhYVzY0WXFqaTFVM1JDRGtNd2V6TEJ5QnBXdUNBZlpmNkd6UQ?oc=5",
+       "publisher": "新唐人電視台"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94Njh1Q2lNdmYxRjhNNXAyUkN5U2Y1M3E3YjQwRlVtNWpLYkZmNWVkSU5WRlg3WEZVNW9mTVVfdUk5cVdqb0U2VF91THFnR0FRaU80QnV3UTNJQlE?oc=5",
+       "publisher": "Newtalk新聞"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxObTJnUU1hUzZRUlhBYnpmV2k4S1JMWGJnT3IyT0JRaUVtQlJadHJRa1dOcnpQNjgzU2Vzc3lnS21NQVQ0NGtoVm1TUTdqQlExLURUeS03UTJJOHpVOUhsLXNnMGN3TU5SWHZ4X2tGQmNBZDZSRWQ5SEVRb1hCVG1aQXhSQ0F2Rm96NmJzLXRra1lXWURhdU02ZTIwc0N1bjVhckQ5Zmlvd1FPYjJpWGNRMHdQclZVTVd4VmVBV21kLTdFR0o0ZG0waC15bnhpMWc5M3hoVmdxZU9QWHVuY2FzQ180UXVERVRfWlgwbXJqZldPb2VCelZ5U1RJSG9NYUNuem5YM2psLVh1OC1JTzJKeklIQTMtc0lCNmxQUFl4R2d5Wk5QbzRJbDNEOXN0QS1sTnR3ODRiVG5kUzNiVVJoMDY1UjFMcDU3bElBU2RHdWpqUExzd3g2alBrNFRmQW9aRkxoRU9lRGw3OHpqeEcycnh3eGMtVkRuUVdSU3dNYmdXOHA0TGFnLWJCQ2Q3bjZHby1fbEx0VGVGZV9raTlDY25PLWc0WlprMDhPUXp4aUIxYThYdTNLODMzRVllTlVyMFE?oc=5",
+       "publisher": "Yahoo新聞"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iran_gulf",
+   "name": "美伊戰爭與荷莫茲海峽",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、3 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "美軍打擊或攔截行動",
+     "summary": "美軍中央司令部（CENTCOM）稱11月26日（只知日期）在阿曼灣，一架美軍機以精準彈藥擊中試圖突破對伊朗港口封鎖的帛琉籍貨輪Pacific Archer船尾，推進系統失效、船員無傷；該船自阿巴斯港出發、無視多次警告。CENTCOM稱這是7月恢復封鎖以來第6艘遭打癱的船。美聯社與《海事執行者》均轉述同一份CENTCOM聲明。",
+     "sources": [
+      {
+       "url": "https://www.ktnv.com/world/middle-east/us-military-says-it-has-disabled-another-ship-trying-to-breach-its-iran-blockade",
+       "publisher": "美聯社（KTNV轉載）"
+      },
+      {
+       "url": "https://maritime-executive.com/article/us-disables-chinese-owned-bulker-running-the-iran-blockade",
+       "publisher": "The Maritime Executive"
+      }
+     ]
+    },
+    {
+     "name": "伊朗對波灣鄰國的報復行動",
+     "summary": "科威特國防部發言人阿特萬上校稱，11月26日（只知日期，時刻不明）伊朗無人機攻擊科威特一處「重要地點」，攔截後碎片致4傷，其中2名萊茵金屬義大利技師死亡；義大利外長塔亞尼稱地點為防空監視站。歸因為科威特官方說法，伊朗武裝部隊發言人否認在區內發動攻擊。",
+     "sources": [
+      {
+       "url": "https://www.aerotime.aero/articles/italian-rheinmetall-technicians-killed-in-kuwaiti-drone-explosion",
+       "publisher": "AeroTime"
+      },
+      {
+       "url": "https://www.abc.net.au/news/2026-11-27/italians-killed-in-kuwait-attack-iran/107432996",
+       "publisher": "ABC（澳洲，路透與美聯社稿）"
+      }
+     ]
+    },
+    {
+     "name": "美軍海上封鎖持續或擴大",
+     "summary": "CBS新聞11月23日即時報導：美軍對伊朗港口的海上封鎖仍在持續。伊朗外交部發言人巴蓋伊當天稱封鎖是「軍事侵略」、將以一切手段對抗，並稱須解除封鎖荷莫茲才可能在兩天內重開；外長阿拉格齊稱陸上封鎖不可能。美財政部同日另對伊朗影子銀行網絡實施制裁。observedAt取該頁最新一則（美東17:19）時間，屬持續狀態的查核時點，本輪未見封鎖範圍再擴大的新公告。",
+     "sources": [
+      {
+       "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+       "publisher": "CBS News"
+      }
+     ]
+    },
+    {
+     "name": "美軍航艦集中中東海域（USNI 週報 2 艘以上）",
+     "summary": "USNI 11/23 週報：中東海域有 2 艘航艦（門檻 2）：Theodore Roosevelt（Arabian Sea）、George H.W. Bush（Arabian Sea）。",
+     "sources": [
+      {
+       "url": "https://news.usni.org/2026/11/23/usni-news-fleet-and-marine-tracker-nov-23-2026",
+       "publisher": "USNI News Fleet Tracker"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "europe_security",
+   "name": "歐洲與北約東翼",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要（2 項觸發，屬同一行動合併計為 1 項）、0 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "波蘭／羅馬尼亞／波羅的海國家領空遭侵犯",
+     "summary": "11/27 9 家媒體報導領空遭侵犯：瑞典召見俄國大使 抗議侵犯波蘭領空並涉嫌策劃丹麥境內謀殺案",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqMVZscC02ckRXZjJYRXFIV2NVUmllLWFZMDlBMUdRdTdFaW14azdpTjNmSDlSY0RGQWJDWVhpdHZ5YUZTcVI5ZHpoSDlEY3R3YVhNSjVNNXhKU2hmeWV0REl6QjdOZWtUVFQ1UVZ6bw?oc=5",
+       "publisher": "香港電台新聞網"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc1M1RWJqQnJQUURYVW13TWZ0TnhaQ2Rwdy1Ga1kzMlR6YmM0RndCWDJqWGh2aHQweXRXTFR4Mm0zRmpnUkx2Mjl5Y3FBcGdtLVFuOHRWVTNwSTFHTElwVU9aam11Ym9VZTNDcm45VHpLWFFZVk02T2toMUpXSzZqZko0NC1PYm8?oc=5",
+       "publisher": "RTHK News"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQWUdqRWczN0FBZDJYREN6YS13NnJLb0VxQkp1c0Q1b01nbGRCVm03cnRoYzZTX3hBbGhmaGpmNzZFSXVwQ3JXNENCa05sRTI5aHpVajZEWlVQbHl2bm9ZS3ZYX0doX3BER0VmbEJmX1pVM24xX2Vtd3hfRmotTWtOLVRjZmNqYm9mQVpaQktZZXB2czBONDRJZjF4Tm1IcGUwZnlqbmFVYVB5QW94bGdYTXduMXZJZnMyT3cxdUNlNTJaalhGQXJHRzlSMDNtSmNJY2t6bVp2bUwyQm1EZXk4QlZvVDBBR0NldUJYUjNWTlAtUFl6NXZCdmdHMjQzcXBSeldDWFlieVBTc2VCaEZIM3luc0otZlhBMW9VOFJCNnhTT0NFdFVLOFdTOEVVbFpjVlpXVnVJNHVteFB5bkFIVVNqb3dFUzJzbHBnbTBPVXlVMmk0QklCN1Rn?oc=5",
+       "publisher": "metrohk.com.hk"
+      }
+     ]
+    },
+    {
+     "name": "戰機緊急升空、機場關閉或交戰規則變更",
+     "summary": "11/27 3 家媒體報導戰機升空或機場關閉：Poland has received two more F-35 fighter jets",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EQklKb0Q5SkJCTERsYmQycUstYXFuLWNaTWRqQ2hLa1hYbnhJM091SVhqN3dZem82SzIzdTA0YzlYQmdBZlloZEpPc2p3a0NRd0NhTTdCejFpWjU2UzcweTR5VEJyS1p4QVo5My1yTEdNOWp3WHNndGlncC0?oc=5",
+       "publisher": "UA.NEWS"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazNKRzNrTlBIZkxsaGhZVVdMR2syUjd2d2JNbHQ4MFBwVjI1UTlMaDBQaVJYZndTdjNRZDlfd3NTOTVSOGdVWlZOM0hrRkI3R2lTWUx6WnlhTU9VZ1VtQnJaYjFLMHVPWHJvYks0d20wLWJCUHZZMXl3M1hLU1I3TWJqZVZsSjEw?oc=5",
+       "publisher": "LBC"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hSGFjd2haVnlPZndxTjN2NUR5WnhBSndyYWpsV0wyNGI5cGJmUkxJZmdZSi0tRWZWTW5KYkJOZDNNMGpyN0NiU2dDTE1ZS0JqSGlta3VrcktzSlB2bXdoUk9R?oc=5",
+       "publisher": "X"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ukraine_front",
+   "name": "烏俄戰爭",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、1 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "能源設施遭打擊比例上升",
+     "summary": "烏克蘭國營電網公司Ukrenergo 11月25日宣布，因敵方攻擊電力系統的後果，26日多個地區全日實施輪流停電（每日2至14小時）並對工業限電；同日Energoatom稱札波羅熱核電廠唯一330千伏外線因俄軍砲擊跳脫、改靠柴油機。兩者皆為烏方單方說法，未獨立證實攻擊細節。",
+     "sources": [
+      {
+       "url": "https://unn.ua/en/news/on-november-26-schedules-will-be-in-effect-around-the-clock-in-ukraine-how-long-you-will-have-to-sit-without-electricity",
+       "publisher": "UNN轉述Ukrenergo"
+      },
+      {
+       "url": "https://en.interfax.com.ua/news/general/1242093.html",
+       "publisher": "Interfax-Ukraine轉述Energoatom"
+      }
+     ]
+    },
+    {
+     "name": "戰線推進或撤退（外部評估）",
+     "summary": "ISW 11月23日評估（Kyiv Post 24日轉載，只知評估日期，以當日00:00記錄）稱俄軍近期在多布羅皮利亞東南與庫皮揚斯克東南推進，烏軍在新帕夫利夫卡東南推進。轉載摘錄未標明是否經地理定位確認，推進幅度未載明。",
+     "sources": [
+      {
+       "url": "https://www.kyivpost.com/post/90994",
+       "publisher": "Kyiv Post（轉載ISW評估）"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "korea_peninsula",
+   "name": "朝鮮半島",
+   "level": 1,
+   "levelName": "常態",
+   "reason": "沒有指標超過門檻",
+   "triggered": []
+  },
+  {
+   "id": "south_china_sea",
+   "name": "南海",
+   "level": 1,
+   "levelName": "常態",
+   "reason": "沒有指標超過門檻",
+   "triggered": []
+  },
+  {
+   "id": "middle_east",
+   "name": "以巴、黎巴嫩與紅海",
+   "level": 2,
+   "levelName": "升溫",
+   "reason": "1 項主要、0 項次要指標觸發",
+   "triggered": [
+    {
+     "name": "以色列對黎巴嫩、敘利亞、伊拉克或葉門空襲（高於 30 日常態）",
+     "summary": "11/28 7 家媒體報導以色列對黎巴嫩、敘利亞、伊拉克或葉門空襲：Israeli security officials divided over timing of Iran strike as military operations conti（近 3 天 43 則，高於 30 日常態 P90 33）",
+     "sources": [
+      {
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUWVpTlRKcFh0a2hyNlFER2l3U2JtQlplVjExUUdPcDM0alk1RXN0eExPZ3FSWmFfNlJ6MjNCeFlXZGYwYXBra0hhVGZIeE9lSXJIc0t0V2g4LVV3NTNVYXdiWkh4SS1GMy13ZjVzYjBEdXdQYWtaLTlob0lEWjdrLTNFUW43YVljQmxqUk9FMXkyREhVRTk2Q2NTbnljNDVJT1NGNFZHVHMzVHNrWWljY290MG1pa3YzN3pmbTJYc3lRMk9KQkktS0tzVQ?oc=5",
+       "publisher": "LBCI Lebanon"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVDR3X1JKNEtYNUVDVEQyaTduYkZvekZILTN2VEFpWkoyeVc3QW5ZUHM0ajBRNl9rMUd3eFM2cnRIbTJLUEtUa2NUV3hCdmM1RzJPZ3JHZE1YME9WUUhQc0hLR2tMVUJrWElRTDM1RWhmRmI5VGtOLVgzLVpOUWZSRGk2QXVjWThOYzFJdFFaVnpYN3I4Q3o1eA?oc=5",
+       "publisher": "DD News"
+      },
+      {
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObzBDYzlNX241aGVnRGNTRzlOeXFIcTh2WjhXVmg2TGdNQlpzaU5Hb3piRHZkVWRMMHdxbW4tSjhtb201OXlpQ2FpMHhNMlBOWkx3SE9KWUxiRWpyc3M3cng3MmdqOFNfSTVnWXY2VVdDRzZOQUlHOVJ6VV9LTjBURmJZYzhXbE5DLTR6WlpB?oc=5",
+       "publisher": "شفق نيوز"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "reports": [
+  {
+   "id": "ukraine-moscow-460-drones-ru-mod-1246-ua-162-20261128",
+   "title": "莫斯科市長稱27日晚至28日晨460架無人機飛向莫斯科州、俄國防部稱一夜擊落1246架：烏空軍同夜稱俄軍射162架無人機、13處遭擊中",
+   "theater": "ukraine_front",
+   "asOf": "2026-11-28T10:05:00.000Z"
+  },
+  {
+   "id": "taiwan-election-day-33-aircraft-27-median-20261128",
+   "title": "九合一投票日前一天共機33架次、27架次逾越中線：國防部稱共艦假借「聯合戰備警巡」騷擾，兩項數據皆高於本站60日P95",
+   "theater": "taiwan_strait",
+   "asOf": "2026-11-28T06:17:00.000Z"
+  },
+  {
+   "id": "iran-centcom-pacific-archer-disabled-irgc-ghanem-mine-20261127",
+   "title": "美軍26日以精準彈藥打癱阿曼灣突破封鎖的帛琉籍貨輪Pacific Archer：恢復封鎖後第6艘，革命衛隊27日再稱油輪走「未授權航路」觸雷",
+   "theater": "iran_gulf",
+   "asOf": "2026-11-27T16:23:00.000Z"
+  },
+  {
+   "id": "europe-trump-putin-pull-back-posture-review-delay-20261127",
+   "title": "川普稱曾要求普丁「撤回對歐洲各地的一切軍事侵略」：美駐北約副大使告知盟國，駐歐兵力態勢檢討將錯過12月1日期限",
+   "theater": "europe_security",
+   "asOf": "2026-11-27T00:54:00.000Z"
+  },
+  {
+   "id": "middle-east-jazan-refinery-nepali-killed-hodeidah-20261126",
+   "title": "沙烏地吉贊煉油廠26日遭空中彈體擊中起火、1名尼泊爾工人罹難：聯軍指胡塞所為並稱摧毀荷台達發射平台，胡塞未立即認領",
+   "theater": "middle_east",
+   "asOf": "2026-11-27T08:03:00.000Z"
+  },
+  {
+   "id": "korea-dprk-pauses-aid-russia-hur-claim-20261126",
+   "title": "烏克蘭軍情局稱北韓暫停對俄軍援：KN-23飛彈與砲彈停運、俄軍機禁入北韓領空，起因是俄副外長對南韓表態；俄朝均未證實",
+   "theater": "korea_peninsula",
+   "asOf": "2026-11-26T21:24:00.000Z"
+  },
+  {
+   "id": "ukraine-marinovka-neptune-subkhankulovo-zelensky-warning-20261126",
+   "title": "烏總參謀部稱以海王星飛彈打擊伏爾加格勒馬里諾夫卡機場、巴什科爾托斯坦輸油站起火：澤倫斯基警告俄軍即將再度大規模空襲",
+   "theater": "ukraine_front",
+   "asOf": "2026-11-26T17:24:00.000Z"
+  }
+ ]
+}
